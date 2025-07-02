@@ -6514,3 +6514,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:centur
 [02Jul2025 04:16:28.329] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
 [02Jul2025 04:16:28.330] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
 [02Jul2025 04:16:29.266] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0xbc89b64ef4e408d3
+[02Jul2025 04:16:31.583] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[02Jul2025 04:16:35.880] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[02Jul2025 04:16:35.882] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[02Jul2025 04:16:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2025 04:16:35.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2025 04:16:35.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2025 04:16:36.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2025 04:16:36.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2025 04:16:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2025 04:16:36.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 04:16:36.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 04:16:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2025 04:16:36.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2025 04:16:36.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2025 04:16:36.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jul2025 04:16:36.924] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Jul2025 04:16:36.925] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/aventuria/servidor_minecraft/config/refurbished_furniture.server.toml
+[02Jul2025 04:16:36.926] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Jul2025 04:16:36.928] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/aventuria/servidor_minecraft/config/goblintraders-entities.toml
+[02Jul2025 04:16:36.928] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Jul2025 04:16:36.928] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Jul2025 04:16:36.928] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[02Jul2025 04:16:36.928] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[02Jul2025 04:16:36.928] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[02Jul2025 04:16:36.931] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
