@@ -533,3 +533,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:centur
 [02Jul2025 22:21:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the weather to clear]
 [02Jul2025 22:22:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the time to 1000]
 [02Jul2025 22:31:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the time to 1000]
+[02Jul2025 22:40:58.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh has made the advancement [Rigged from the Start]
+[02Jul2025 22:41:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the time to 1000]
+[02Jul2025 22:46:40.990] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[02Jul2025 22:47:14.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 89034453-8816-3db5-9097-81f79b656603 timed out
+[02Jul2025 22:47:14.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player abeldh
+[02Jul2025 22:47:14.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[02Jul2025 22:47:14.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[02Jul2025 22:47:14.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[02Jul2025 22:47:14.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[02Jul2025 22:47:34.585] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[02Jul2025 22:47:34.585] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[02Jul2025 22:47:35.390] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 76b0ab3e-df96-4dae-933e-39d6e8951300
+[02Jul2025 22:47:35.434] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0c4e6022-b57a-4e61-a6bd-c5c3adb52711
+[02Jul2025 22:47:35.435] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/aventuria/servidor_minecraft/./crash-reports/crash-2025-07-02_22.47.35-server.txt
+[02Jul2025 22:47:40.980] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
