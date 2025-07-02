@@ -530,3 +530,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:centur
 [02Jul2025 22:03:28.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
 [02Jul2025 22:03:59.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalonzo moved too quickly! 0.7425900921243738,0.0,-10.430834444572213
 [02Jul2025 22:13:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set the time to 1000]
+[02Jul2025 22:21:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the weather to clear]
+[02Jul2025 22:22:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the time to 1000]
