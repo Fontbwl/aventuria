@@ -934,9 +934,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_neck": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-07-03 01:00:50 +0000"
     },
     "done": true
   },
@@ -982,6 +1000,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_silver_tail": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
@@ -997,6 +1021,18 @@
   "iceandfire:recipes/combat/dragonarmor_gold_head": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
     },
     "done": true
   },
@@ -1018,6 +1054,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_head": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
@@ -1027,6 +1069,12 @@
   "iceandfire:recipes/tools/silver_pickaxe": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
     },
     "done": true
   },
@@ -1048,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
@@ -1066,9 +1120,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
     "criteria": {
       "has_dragonscale_red": "2025-07-03 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-07-03 01:00:50 +0000"
     },
     "done": true
   },
@@ -1084,9 +1156,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/copper_sword": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_strip_from_framed_floor_board": {
+    "criteria": {
+      "hasFramedFloorBoard": "2025-07-03 01:01:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
     },
     "done": true
   },
@@ -1117,6 +1219,18 @@
   "iceandfire:recipes/combat/dragonarmor_copper_neck": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board_rotate_to_framed_wall_board": {
+    "criteria": {
+      "hasFramedFloorBoard": "2025-07-03 01:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:00:50 +0000"
     },
     "done": true
   },
@@ -1153,6 +1267,24 @@
   "iceandfire:recipes/tools/copper_pickaxe": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-03 01:05:54 +0000"
     },
     "done": true
   },
