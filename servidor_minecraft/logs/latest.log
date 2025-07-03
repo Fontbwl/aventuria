@@ -1353,3 +1353,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [03Jul2025 23:00:59.527] [Server thread/INFO] [Easy NPC/]: Opening menu f7223f98-5e79-46d0-8cca-7b6cc97a6dca for npc 9108035e-f1bc-4e5e-bfdd-416636aeae61 and player ServerPlayer['abeldh'/254, l='ServerLevel[world]', x=-1283.88, y=94.00, z=-338.70] with ConfigurationMenu.URL_SKIN[translation{key='text.easy_npc.config.url_skin.title', args=[Théobald]}]
 [03Jul2025 23:01:15.226] [Server thread/INFO] [Easy NPC/]: Opening menu dfbc4252-0e96-4adb-9e2c-dd231d819fe3 for npc 0c300e67-38a7-4929-ad7b-7b01e78e37bc and player ServerPlayer['abeldh'/254, l='ServerLevel[world]', x=-1272.32, y=94.00, z=-338.59] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Aldric]}]
 [03Jul2025 23:01:24.723] [Server thread/INFO] [Easy NPC/]: Opening menu eed36478-14ef-4cd0-90ec-a7ff05ebc1bb for npc 0c300e67-38a7-4929-ad7b-7b01e78e37bc and player ServerPlayer['abeldh'/254, l='ServerLevel[world]', x=-1272.32, y=94.00, z=-338.59] with ConfigurationMenu.URL_SKIN[translation{key='text.easy_npc.config.url_skin.title', args=[Ragnar]}]
+[03Jul2025 23:08:30.830] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jul2025 23:08:30.986] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jul2025 23:08:30.987] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jul2025 23:08:30.991] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jul2025 23:08:31.147] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jul2025 23:08:31.177] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jul2025 23:08:31.177] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jul2025 23:08:31.177] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jul2025 23:08:31.306] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jul2025 23:08:31.308] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jul2025 23:08:31.310] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jul2025 23:08:31.388] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jul2025 23:08:31.785] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jul2025 23:08:31.785] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jul2025 23:08:31.865] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jul2025 23:08:32.031] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jul2025 23:08:32.075] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [medieval_rp:medieval_rp,customnpcs:packets] rejected their client side version number
+[03Jul2025 23:08:32.075] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jul2025 23:08:32.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16b696bd[id=<null>,name=CesarDFA27,properties={},legacy=false] (/127.55.52.18:53583) lost connection: Connection closed - mismatched mod channel list
+[03Jul2025 23:09:59.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set the time to 1000]
+[03Jul2025 23:12:24.219] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jul2025 23:12:24.380] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jul2025 23:12:24.381] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jul2025 23:12:24.381] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jul2025 23:12:24.540] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jul2025 23:12:24.544] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jul2025 23:12:24.544] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jul2025 23:12:24.699] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jul2025 23:12:24.728] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jul2025 23:12:24.728] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jul2025 23:12:24.728] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jul2025 23:12:24.782] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jul2025 23:12:25.267] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jul2025 23:12:25.307] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jul2025 23:12:25.307] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jul2025 23:12:25.425] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jul2025 23:12:30.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesarDFA27[/127.55.52.18:49921] logged in with entity id 33987 at (-1264.6959816552776, 94.0, -358.88648392134064)
+[03Jul2025 23:12:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDFA27 joined the game
+[03Jul2025 23:12:30.454] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Jul2025 23:12:30.455] [Server thread/INFO] [Jade/]: Syncing config to CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce)
+[03Jul2025 23:12:31.845] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CesarDFA27 (18)
+[03Jul2025 23:12:31.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[03Jul2025 23:12:40.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[03Jul2025 23:12:41.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[03Jul2025 23:12:41.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[03Jul2025 23:13:08.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the time to 18000]
+[03Jul2025 23:16:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDFA27 has made the advancement [Rigged from the Start]
