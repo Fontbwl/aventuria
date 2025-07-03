@@ -3371,5 +3371,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-03 23:12:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-07-03 23:16:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
