@@ -827,3 +827,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [03Jul2025 21:37:07.321] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
 [03Jul2025 21:37:08.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
 [03Jul2025 21:37:08.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[03Jul2025 21:58:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh has made the advancement [Call of the Ancients]
