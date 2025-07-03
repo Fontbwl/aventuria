@@ -2818,6 +2818,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-03 22:45:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-07-03 22:20:02 +0000"
@@ -2881,6 +2887,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-03 22:19:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-03 22:45:52 +0000"
     },
     "done": true
   },
@@ -3091,6 +3103,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
     "criteria": {
       "has_light_ceiling_light": "2025-07-03 21:53:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-03 22:45:52 +0000"
     },
     "done": true
   },
@@ -4528,6 +4546,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-03 22:45:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-07-03 21:41:58 +0000"
@@ -4537,6 +4561,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-07-03 21:46:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-03 22:45:52 +0000"
     },
     "done": true
   },
