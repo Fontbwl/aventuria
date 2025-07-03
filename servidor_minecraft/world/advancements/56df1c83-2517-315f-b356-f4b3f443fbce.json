@@ -425,6 +425,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-03 01:25:24 +0000",
       "minecraft:river": "2025-07-02 23:32:52 +0000",
       "minecraft:plains": "2025-07-03 00:00:57 +0000"
     },
@@ -928,9 +929,33 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_diamond_body": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -952,15 +977,51 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-07-03 01:00:50 +0000"
     },
     "done": true
   },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/copper_axe": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 01:26:45 +0000"
     },
     "done": true
   },
@@ -988,9 +1049,51 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_sword": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1000,9 +1103,21 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_trapdoor": {
     "criteria": {
       "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1018,9 +1133,21 @@
     },
     "done": true
   },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_gold_head": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-03 01:26:45 +0000"
     },
     "done": true
   },
@@ -1033,6 +1160,30 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-03 01:26:45 +0000"
     },
     "done": true
   },
@@ -1072,15 +1223,51 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-07-03 01:26:45 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_slab_corner": {
     "criteria": {
       "hasFramedSlab": "2025-07-03 01:05:54 +0000"
     },
     "done": true
   },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_diamond_head": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1093,6 +1280,18 @@
   "iceandfire:recipes/combat/dragonarmor_silver_head": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1162,6 +1361,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/copper_sword": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
@@ -1171,6 +1376,36 @@
   "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
     "criteria": {
       "hasFramedSlab": "2025-07-03 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1186,9 +1421,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-03 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1198,9 +1451,39 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_metal_boots": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-03 01:26:45 +0000"
     },
     "done": true
   },
@@ -1222,9 +1505,39 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_floor_board_rotate_to_framed_wall_board": {
     "criteria": {
       "hasFramedFloorBoard": "2025-07-03 01:01:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1234,15 +1547,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
     },
     "done": true
   },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_hoe": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },
@@ -1282,15 +1643,39 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
     "criteria": {
       "hasFramedSlab": "2025-07-03 01:05:54 +0000"
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_leggings": {
     "criteria": {
       "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 01:19:45 +0000"
     },
     "done": true
   },

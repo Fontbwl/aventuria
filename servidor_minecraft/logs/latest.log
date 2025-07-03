@@ -640,3 +640,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [03Jul2025 00:49:10.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
 [03Jul2025 00:49:10.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
 [03Jul2025 01:05:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set the time to 1000]
+[03Jul2025 01:15:24.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set the time to 1000]
+[03Jul2025 01:21:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Successfully filled 299 block(s)]
+[03Jul2025 01:23:07.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Gave 1 [Dark Oak Log] to abeldh]
+[03Jul2025 01:23:14.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Gave 1 [Dark Oak Leaves] to abeldh]
+[03Jul2025 01:23:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Gave 1 [Dark Oak Log] to abeldh]
+[03Jul2025 01:23:42.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Gave 1 [Dark Oak Wood] to abeldh]
+[03Jul2025 01:23:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Gave 1 [Dark Oak Hanging Sign] to abeldh]
+[03Jul2025 01:26:26.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set the time to 1000]
+[03Jul2025 01:26:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Successfully filled 299 block(s)]
+[03Jul2025 01:26:44.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Successfully filled 299 block(s)]
+[03Jul2025 01:27:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abeldh> stripped_dark_oak_log
+[03Jul2025 01:31:42.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound creeperoverhaul:entity.ocean.creeper.inflate to 3 players]
+[03Jul2025 01:32:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound minecraft:weather.rain to 3 players]
+[03Jul2025 01:32:45.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound minecraft:ambient.crimson_forest.loop to 3 players]
+[03Jul2025 01:33:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound minecraft:music_disc.pigstep to 3 players]
+[03Jul2025 01:33:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound minecraft:music_disc.pigstep to 3 players]
+[03Jul2025 01:35:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CesarDFA27: Teleported CesarDFA27 to abeldh]
+[03Jul2025 01:35:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound minecraft:music_disc.pigstep to 3 players]
+[03Jul2025 01:35:59.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Played sound minecraft:music.game to 3 players]
+[03Jul2025 01:36:14.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abeldh lost connection: Disconnected
+[03Jul2025 01:36:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh left the game
+[03Jul2025 01:36:14.525] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client abeldh
+[03Jul2025 01:36:36.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4100b927[id=<null>,name=abeldh,properties={},legacy=false] (/127.242.148.38:54427) lost connection: Disconnected
+[03Jul2025 01:36:39.220] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jul2025 01:36:39.264] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jul2025 01:36:39.325] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jul2025 01:36:39.387] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jul2025 01:36:39.430] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jul2025 01:36:39.474] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jul2025 01:36:39.517] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jul2025 01:36:39.567] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jul2025 01:36:39.620] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jul2025 01:36:39.669] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jul2025 01:36:39.720] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jul2025 01:36:39.767] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jul2025 01:36:39.911] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jul2025 01:36:39.912] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jul2025 01:36:39.945] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jul2025 01:36:39.990] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jul2025 01:36:45.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abeldh[/127.242.148.38:52967] logged in with entity id 26908 at (-1319.7394033172834, 106.36570368174424, -326.99732532042526)
+[03Jul2025 01:36:45.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh joined the game
+[03Jul2025 01:36:45.712] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Jul2025 01:36:45.713] [Server thread/INFO] [Jade/]: Syncing config to abeldh (89034453-8816-3db5-9097-81f79b656603)
+[03Jul2025 01:36:46.503] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of abeldh (18)
+[03Jul2025 01:36:46.504] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[03Jul2025 01:36:52.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 89034453-8816-3db5-9097-81f79b656603
+[03Jul2025 01:36:53.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 89034453-8816-3db5-9097-81f79b656603
+[03Jul2025 01:36:53.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
+[03Jul2025 01:37:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Gave 1 [Light] to Dalonzo]
+[03Jul2025 01:37:26.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Set the weather to clear]
+[03Jul2025 01:40:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh has made the advancement [Looking for the Moon]
+[03Jul2025 01:40:54.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesarDFA27 lost connection: Disconnected
+[03Jul2025 01:40:54.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDFA27 left the game
+[03Jul2025 01:40:54.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CesarDFA27
+[03Jul2025 01:41:17.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [abeldh: Gave 1 [Light] to abeldh]
