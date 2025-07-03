@@ -1719,15 +1719,141 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_glass": "2025-07-03 00:07:38 +0000"
+      "onion": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-02 23:15:47 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-07-02 23:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-02 23:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-02 23:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-02 23:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-02 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-07-02 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-02 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-02 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-02 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "interact": "2025-07-02 23:57:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-02 23:57:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/farseer": {
+    "criteria": {
+      "killed_by": "2025-07-02 23:58:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2025-07-02 23:59:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-03 00:07:38 +0000"
     },
     "done": true
   },
@@ -1740,12 +1866,6 @@
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "interact": "2025-07-02 23:57:11 +0000"
     },
     "done": true
   },
@@ -1773,24 +1893,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed_by": "2025-07-02 23:59:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-07-02 22:52:38 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-07-02 23:45:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
@@ -1809,12 +1911,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-02 23:15:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
@@ -1830,12 +1926,6 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-02 23:16:00 +0000"
     },
     "done": true
   },
@@ -1872,30 +1962,6 @@
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-07-02 23:57:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-07-02 23:15:52 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/farseer": {
-    "criteria": {
-      "killed_by": "2025-07-02 23:58:01 +0000"
     },
     "done": true
   },
@@ -1953,21 +2019,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-07-02 23:45:33 +0000"
     },
     "done": true
   },
@@ -1989,18 +2043,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-07-02 23:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-07-02 23:15:52 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
@@ -2019,12 +2061,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-07-02 22:52:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
@@ -2034,12 +2070,6 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
     },
     "done": true
   },
@@ -2073,12 +2103,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-07-02 23:15:52 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
@@ -2091,21 +2115,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-07-02 23:45:33 +0000"
     },
     "done": true
   },
@@ -2130,18 +2142,6 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:07:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-07-02 22:52:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 22:52:38 +0000"
     },
     "done": true
   },

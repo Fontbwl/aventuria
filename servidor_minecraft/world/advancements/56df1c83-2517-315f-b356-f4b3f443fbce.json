@@ -442,9 +442,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "alexsmobs:alexsmobs/farseer": {
     "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
+      "killed": "2025-07-02 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-02 23:58:17 +0000"
     },
     "done": true
   },
@@ -490,63 +496,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/creeper_trophy": {
-    "criteria": {
-      "has_creeper_trophy": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-03 00:06:25 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-07-03 00:08:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
     },
     "done": true
   },
@@ -610,30 +568,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/vindicator_trophy": {
-    "criteria": {
-      "has_vindicator_trophy": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/evoker_trophy": {
-    "criteria": {
-      "has_evoker_trophy": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/farseer": {
-    "criteria": {
-      "killed": "2025-07-02 23:58:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
@@ -643,12 +577,6 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-07-02 23:58:17 +0000"
     },
     "done": true
   },
@@ -670,39 +598,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/pillager_trophy": {
-    "criteria": {
-      "has_pillager_trophy": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/stone": {
-    "criteria": {
-      "has_wood": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/skeleton_trophy": {
-    "criteria": {
-      "has_skeleton_trophy": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
     },
     "done": true
   },
@@ -718,21 +622,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/stone_corner_trim": {
-    "criteria": {
-      "has_stone_corner_trim": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-03 00:07:49 +0000"
     },
     "done": true
   },
@@ -772,12 +664,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
@@ -790,33 +676,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
     },
     "done": true
   },
@@ -832,12 +700,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
@@ -850,39 +712,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/witch_trophy": {
-    "criteria": {
-      "has_witch_trophy": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/stone_pillar_trim": {
-    "criteria": {
-      "has_stone_pillar_trim": "2025-07-03 00:09:04 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/arrow_slits_gothic": {
-    "criteria": {
-      "has_wood": "2025-07-03 00:09:04 +0000"
     },
     "done": true
   },
@@ -919,6 +751,414 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-03 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-03 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-03 00:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-03 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-07-03 00:09:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_head": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_tail": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_body": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_tail": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_head": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-07-03 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_body": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_sword": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_both_weapons": {
+    "criteria": {
+      "obtain_both_weapons_0": "2025-07-03 00:52:15 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_neck": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-07-03 00:55:23 +0000"
     },
     "done": true
   },
