@@ -2416,6 +2416,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2025-07-03 22:04:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-07-03 21:41:58 +0000"
@@ -2902,6 +2908,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-07-03 22:04:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2025-07-03 21:41:58 +0000"
@@ -3202,6 +3214,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2025-07-03 22:04:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-07-03 21:41:58 +0000"
@@ -3271,6 +3289,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-07-03 21:51:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-07-03 22:05:56 +0000"
     },
     "done": true
   },
