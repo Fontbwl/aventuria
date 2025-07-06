@@ -432,19 +432,28 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-07-02 01:09:31 +0000",
+      "jade_cliffs": "2025-07-04 00:43:35 +0000",
+      "coniferous_forest": "2025-07-04 00:40:41 +0000",
       "redwood_forest": "2025-07-02 01:09:29 +0000",
+      "fir_clearing": "2025-07-04 00:47:32 +0000",
       "prairie": "2025-07-02 01:07:46 +0000",
-      "rainforest": "2025-07-02 01:07:35 +0000"
+      "rainforest": "2025-07-02 01:07:35 +0000",
+      "crag": "2025-07-04 00:40:51 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-02 01:08:42 +0000",
+      "minecraft:sunflower_plains": "2025-07-04 00:52:08 +0000",
+      "minecraft:beach": "2025-07-04 00:55:38 +0000",
       "minecraft:river": "2025-07-02 01:11:11 +0000",
       "minecraft:stony_shore": "2025-07-02 01:09:26 +0000",
       "minecraft:jagged_peaks": "2025-07-02 01:08:44 +0000",
+      "minecraft:forest": "2025-07-04 02:21:24 +0000",
       "minecraft:ocean": "2025-07-02 01:36:37 +0000",
+      "minecraft:deep_dark": "2025-07-04 00:41:18 +0000",
+      "minecraft:meadow": "2025-07-04 02:21:34 +0000",
       "minecraft:plains": "2025-07-02 01:08:25 +0000"
     },
     "done": false
@@ -3380,6 +3389,222 @@
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2025-07-03 23:16:56 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_lead_3": {
+    "criteria": {
+      "has_stone": "2025-07-04 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_blanket_5": {
+    "criteria": {
+      "has_stone": "2025-07-04 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_pasture_blanket_3_short": {
+    "criteria": {
+      "has_stone": "2025-07-04 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_halter_lead": {
+    "criteria": {
+      "has_stone": "2025-07-04 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_pasture_blanket_5_long": {
+    "criteria": {
+      "has_stone": "2025-07-04 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-04 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-04 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-07-04 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-04 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-07-04 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-04 00:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-04 00:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 00:48:01 +0000"
     },
     "done": true
   },
