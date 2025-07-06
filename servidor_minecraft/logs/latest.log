@@ -1126,3 +1126,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [06Jul2025 22:50:33.170] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [06Jul2025 22:50:33.170] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [06Jul2025 22:50:33.170] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jul2025 23:08:57.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abeldh lost connection: Disconnected
+[06Jul2025 23:08:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh left the game
+[06Jul2025 23:08:57.224] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client abeldh
