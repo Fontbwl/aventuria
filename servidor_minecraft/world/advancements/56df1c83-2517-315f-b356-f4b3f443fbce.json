@@ -2916,6 +2916,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_divided_slab_rotate_to_framed_divided_panel_horizontal": {
+    "criteria": {
+      "hasFramedDividedSlab": "2025-07-07 03:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-07 03:08:52 +0000"
