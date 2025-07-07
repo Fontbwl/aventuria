@@ -1,7 +1,7 @@
-[01:53:19][FINE/customnpcs][noppes.npcs.controllers.ScriptController:55] Mon Jul 07 01:53:19 UTC 2025
-[01:53:19][FINE/customnpcs][noppes.npcs.CustomNpcs:199] Script Engines Available:
-[01:53:19][FINE/customnpcs][noppes.npcs.CustomNpcs:199] ECMAScript: .js
-[01:53:40][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
-[01:53:40][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
-[01:54:02][FINE/customnpcs][noppes.npcs.CustomNpcs:248] Loading Dialogs
-[01:54:02][FINE/customnpcs][noppes.npcs.CustomNpcs:248] Done loading Dialogs
+[23:23:22][FINE/customnpcs][noppes.npcs.controllers.ScriptController:55] Mon Jul 07 23:23:22 UTC 2025
+[23:23:22][FINE/customnpcs][noppes.npcs.CustomNpcs:199] Script Engines Available:
+[23:23:22][FINE/customnpcs][noppes.npcs.CustomNpcs:199] ECMAScript: .js
+[23:23:49][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[23:23:49][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[23:24:18][FINE/customnpcs][noppes.npcs.CustomNpcs:248] Loading Dialogs
+[23:24:18][FINE/customnpcs][noppes.npcs.CustomNpcs:248] Done loading Dialogs
