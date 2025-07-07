@@ -26,3 +26,4 @@
 [07Jul2025 00:08:45.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abeldh lost connection: Disconnected
 [07Jul2025 00:08:45.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh left the game
 [07Jul2025 00:08:45.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client abeldh
+[07Jul2025 00:40:59.230] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-07 at /workspaces/aventuria/servidor_minecraft/easy_npc/backup ...
