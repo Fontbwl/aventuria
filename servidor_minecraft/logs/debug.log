@@ -17517,3 +17517,324 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [07Jul2025 03:24:04.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 03:24:04.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 03:24:07.168] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:24:19.620] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:24:19.824] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:24:57.668] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:12.068] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:17.115] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:18.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:22.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 89034453-8816-3db5-9097-81f79b656603 timed out
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player abeldh
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to abeldh
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with abeldh
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with abeldh
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 89034453-8816-3db5-9097-81f79b656603 to disconnected: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:25:22.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:25:22.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:25:22.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:25:22.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:25:22.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:25:22.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:25:22.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:25:22.625] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:25:22.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:25:22.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 03:25:23.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:25:23.713] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:25:23.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:25:35.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:35.762] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:36.026] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:36.229] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:36.664] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:36.827] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:36.977] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:37.118] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:37.273] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:37.472] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:37.867] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:38.077] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:38.580] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:38.768] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:48.771] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:50.883] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:51.212] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:56.579] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:25:59.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set the time to 1000]
+[07Jul2025 03:26:15.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:26:15.839] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of abeldh to connected: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:26:15.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
+[07Jul2025 03:26:15.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:26:15.870] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:26:15.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:26:15.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:26:15.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:26:15.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:26:15.950] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:26:15.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 03:26:16.116] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:26:18.563] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:26:18.871] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:26:20.869] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:26:30.418] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 03:26:30.877] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 89034453-8816-3db5-9097-81f79b656603 timed out
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player abeldh
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to abeldh
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with abeldh
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with abeldh
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 89034453-8816-3db5-9097-81f79b656603 to disconnected: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:26:30.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:26:30.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:26:31.017] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:26:31.137] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:26:31.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:26:31.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 03:26:31.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 03:26:31.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 03:26:31.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 03:26:31.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 03:26:31.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 03:26:31.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:26:31.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:26:31.966] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:26:31.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:26:32.015] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:26:32.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:26:32.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:26:32.204] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of abeldh to connected: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:26:32.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
+[07Jul2025 03:26:32.266] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:26:33.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:26:33.096] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:26:33.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 03:26:33.262] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:26:53.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalonzo moved too quickly! 5.4534998893725515,-3.0409013432345517,8.009128824849938
+[07Jul2025 03:27:23.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:27:23.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:27:23.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:27:23.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:27:23.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:27:23.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:27:23.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:27:23.264] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:27:23.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:27:23.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:27:24.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 89034453-8816-3db5-9097-81f79b656603 timed out
+[07Jul2025 03:27:24.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player abeldh
+[07Jul2025 03:27:24.240] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to abeldh
+[07Jul2025 03:27:24.240] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with abeldh
+[07Jul2025 03:27:24.240] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with abeldh
+[07Jul2025 03:27:24.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 89034453-8816-3db5-9097-81f79b656603 to disconnected: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 03:27:24.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:27:24.314] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:27:24.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:27:24.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:28:15.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:28:15.407] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:28:15.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:28:15.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:28:15.464] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:28:15.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 03:28:15.468] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:28:15.624] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:28:15.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:28:15.717] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of abeldh to connected: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:28:15.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
+[07Jul2025 03:28:15.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:28:24.714] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Fairy['Fairy'/66478, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[07Jul2025 03:28:24.714] [Server thread/INFO] [Easy NPC/]: Register default handler for Fairy['Fairy'/66478, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant GREEN ...
+[07Jul2025 03:28:24.715] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Fairy['Fairy'/66478, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-336.50] ...
+[07Jul2025 03:28:24.715] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Fairy['Fairy'/66478, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-336.50] ...
+[07Jul2025 03:28:28.815] [Server thread/INFO] [Easy NPC/]: Opening menu 5b77dcf2-7517-4c7a-af83-ae90a3a70cd6 for npc 046e78de-1164-427b-9fd5-6b8e3db9c835 and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Fairy]}]
+[07Jul2025 03:28:30.571] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Fairy['Fairy'/66478, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-336.50] requested by ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67]
+[07Jul2025 03:28:33.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 89034453-8816-3db5-9097-81f79b656603 timed out
+[07Jul2025 03:28:33.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player abeldh
+[07Jul2025 03:28:33.567] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to abeldh
+[07Jul2025 03:28:33.567] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with abeldh
+[07Jul2025 03:28:33.567] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with abeldh
+[07Jul2025 03:28:33.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 89034453-8816-3db5-9097-81f79b656603 to disconnected: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:28:33.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:28:33.569] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:28:33.569] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:28:33.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:28:33.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:28:33.713] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:28:34.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 03:28:34.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 03:28:34.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 03:28:34.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 03:28:34.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 03:28:34.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 03:28:34.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:28:34.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:28:34.626] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:28:34.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:28:34.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:28:34.661] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of abeldh to connected: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:28:34.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
+[07Jul2025 03:28:34.670] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:28:34.715] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:28:34.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:28:35.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:28:35.778] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:28:35.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 03:28:35.965] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:28:41.366] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/66871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[07Jul2025 03:28:41.366] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/66871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[07Jul2025 03:28:41.366] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['entity.easy_npc.humanoid'/66871, l='ServerLevel[world]', x=-1266.50, y=122.00, z=-336.50] ...
+[07Jul2025 03:28:41.367] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['entity.easy_npc.humanoid'/66871, l='ServerLevel[world]', x=-1266.50, y=122.00, z=-336.50] ...
+[07Jul2025 03:28:42.377] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/66893, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[07Jul2025 03:28:42.377] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/66893, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[07Jul2025 03:28:42.485] [Server thread/INFO] [Easy NPC/]: Opening menu 360227a3-d0d1-4399-be37-304f9334bc83 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:28:45.814] [Server thread/INFO] [Easy NPC/]: Opening menu 2816d978-715e-43d5-af3f-2fea92d09ec7 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:28:47.515] [Server thread/INFO] [Easy NPC/]: Opening menu c5e41019-b910-48f6-a4c9-72ddf8e56eda for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:28:48.914] [Server thread/INFO] [Easy NPC/]: Opening menu b76e4f12-18cd-49dd-be67-3d943351bca0 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67] with ConfigurationMenu.DEFAULT_MODEL[translation{key='text.easy_npc.config.default_model.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:28:50.421] [Server thread/INFO] [Easy NPC/]: Opening menu 2c06db9f-3234-4191-b272-0aa3bf5ca755 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1268.91, y=122.00, z=-336.67] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:01.461] [Server thread/INFO] [Easy NPC/]: Opening menu b3ff2935-2e0f-4afc-bea3-92b7334470e2 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['abeldh'/40602, l='ServerLevel[world]', x=-1268.14, y=122.00, z=-337.95] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:03.519] [Server thread/INFO] [Easy NPC/]: Opening menu 67ac6464-2159-4d22-abf1-3af7120f734c for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['abeldh'/40602, l='ServerLevel[world]', x=-1268.14, y=122.00, z=-337.95] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:04.415] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 03:29:04.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:29:04.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:29:07.613] [Server thread/INFO] [Easy NPC/]: Opening menu 96a95537-f48f-4d84-a968-e5f7fd6b6f34 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['abeldh'/40602, l='ServerLevel[world]', x=-1268.14, y=122.00, z=-337.95] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:08.664] [Server thread/INFO] [Easy NPC/]: Opening menu 157f2f64-5b03-483e-9624-2bddc482bde7 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['abeldh'/40602, l='ServerLevel[world]', x=-1268.14, y=122.00, z=-337.95] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:23.916] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:23.916] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:29:23.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 89034453-8816-3db5-9097-81f79b656603 timed out
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player abeldh
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to abeldh
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with abeldh
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with abeldh
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to abeldh
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 89034453-8816-3db5-9097-81f79b656603 to disconnected: {disabled=false, disconnected=true, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:29:23.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:29:23.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:29:23.931] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:24.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:29:24.021] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:29:24.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:29:24.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 03:29:24.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 03:29:24.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 03:29:24.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 03:29:24.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 03:29:24.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 03:29:24.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 03:29:25.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:29:25.018] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:25.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:29:25.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 03:29:33.212] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/68178, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[07Jul2025 03:29:33.212] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/68178, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[07Jul2025 03:29:33.309] [Server thread/INFO] [Easy NPC/]: Opening menu c70c2411-4c0b-4173-ac2f-9a9c003aa13f for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1269.04, y=122.00, z=-337.99] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:29:35.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:36.020] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:36.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:29:37.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:29:37.022] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:37.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:29:37.067] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:29:38.926] [Server thread/INFO] [Easy NPC/]: Opening menu ccf7d161-64f7-4d89-a757-039051b615f2 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1269.04, y=122.00, z=-337.99] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:42.320] [Server thread/INFO] [Easy NPC/]: Opening menu 52827f75-003f-45b5-8ed9-e75d8da55807 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/448, l='ServerLevel[world]', x=-1267.51, y=122.00, z=-336.23] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:46.120] [Server thread/INFO] [Easy NPC/]: Opening menu 1964fe56-bd68-4ea7-9971-d75eb571b528 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/448, l='ServerLevel[world]', x=-1267.67, y=122.00, z=-336.19] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:29:47.921] [Server thread/INFO] [Easy NPC/]: Opening menu e0a44562-88ca-46e7-8b94-3603dc9b2b08 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/448, l='ServerLevel[world]', x=-1267.67, y=122.00, z=-336.19] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:00.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesarDFA27 lost connection: Disconnected
+[07Jul2025 03:30:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDFA27 left the game
+[07Jul2025 03:30:00.164] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CesarDFA27
+[07Jul2025 03:30:00.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CesarDFA27
+[07Jul2025 03:30:02.314] [Server thread/INFO] [Easy NPC/]: Opening menu a56b68a7-2b5e-43e7-a4d4-05dd86e19b71 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.73, y=122.00, z=-335.55] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:07.174] [Server thread/INFO] [Easy NPC/]: Opening menu 7b2a0467-44a1-442a-bdb3-87c26939cc76 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.73, y=122.00, z=-335.55] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:10.967] [Server thread/INFO] [Easy NPC/]: Opening menu 08fce5d5-ccba-4054-88af-af29ed831451 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.73, y=122.00, z=-335.55] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:15.109] [Server thread/INFO] [Easy NPC/]: Opening menu db589a0e-f71d-4114-9e4c-53ad8e893edd for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.73, y=122.00, z=-335.55] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:17.513] [Server thread/INFO] [Easy NPC/]: Opening menu 942b79cb-9acb-4b10-b40d-f8415e6386a4 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.73, y=122.00, z=-335.55] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:20.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 89034453-8816-3db5-9097-81f79b656603
+[07Jul2025 03:30:20.392] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of abeldh to connected: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:30:20.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abeldh (89034453-8816-3db5-9097-81f79b656603) successfully connected to voice chat
+[07Jul2025 03:30:20.436] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of abeldh: {disabled=false, disconnected=false, uuid=89034453-8816-3db5-9097-81f79b656603, name=abeldh, group=null}
+[07Jul2025 03:30:20.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abeldh lost connection: Disconnected
+[07Jul2025 03:30:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh left the game
+[07Jul2025 03:30:20.715] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of abeldh
+[07Jul2025 03:30:20.715] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client abeldh
+[07Jul2025 03:30:23.665] [Server thread/INFO] [Easy NPC/]: Opening menu 0f478208-6120-41bb-bddd-a2b3297f94a5 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.95, y=122.00, z=-336.50] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:24.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:30:24.609] [Server thread/INFO] [Easy NPC/]: Opening menu 9bb5ef38-e662-4f63-85ee-6d13419512eb for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/33276, l='ServerLevel[world]', x=-1267.95, y=122.00, z=-336.50] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[entity.easy_npc.]}]
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 03:30:25.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:30:25.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:30:26.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:30:26.299] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 03:30:26.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 03:30:31.238] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[07Jul2025 03:30:31.267] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 03:30:31.274] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[07Jul2025 03:30:31.277] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 03:30:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2025 03:30:31.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2025 03:30:31.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalonzo lost connection: Disconnected
+[07Jul2025 03:30:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalonzo left the game
+[07Jul2025 03:30:31.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2025 03:30:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2025 03:30:31.667] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 03:30:31.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2025 03:30:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2025 03:30:31.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:30:31.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:30:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2025 03:30:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2025 03:30:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2025 03:30:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jul2025 03:30:31.779] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jul2025 03:30:31.780] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/aventuria/servidor_minecraft/config/refurbished_furniture.server.toml
+[07Jul2025 03:30:31.780] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[07Jul2025 03:30:31.783] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/aventuria/servidor_minecraft/config/goblintraders-entities.toml
+[07Jul2025 03:30:31.783] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jul2025 03:30:31.783] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Jul2025 03:30:31.783] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[07Jul2025 03:30:31.784] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[07Jul2025 03:30:31.784] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@72e4377c
+[07Jul2025 03:30:31.784] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Jul2025 03:30:31.799] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
