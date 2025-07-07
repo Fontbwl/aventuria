@@ -431,6 +431,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-07-07 01:20:34 +0000",
       "rocky_shrubland": "2025-07-02 01:06:29 +0000",
       "highland": "2025-07-02 01:09:41 +0000",
       "jade_cliffs": "2025-07-03 00:05:13 +0000",
@@ -438,13 +439,25 @@
       "field": "2025-07-04 02:44:52 +0000",
       "overgrown_greens": "2025-07-04 01:10:18 +0000",
       "coniferous_forest": "2025-07-03 00:03:22 +0000",
+      "old_growth_dead_forest": "2025-07-07 01:28:42 +0000",
       "redwood_forest": "2025-07-02 01:07:08 +0000",
+      "aspen_glade": "2025-07-07 01:18:03 +0000",
       "dune_beach": "2025-07-02 01:07:32 +0000",
+      "seasonal_forest": "2025-07-07 01:13:37 +0000",
+      "auroral_garden": "2025-07-07 01:22:08 +0000",
+      "dead_forest": "2025-07-07 01:25:46 +0000",
       "rocky_rainforest": "2025-07-02 00:29:54 +0000",
       "volcanic_plains": "2025-07-02 00:29:59 +0000",
+      "fir_clearing": "2025-07-07 01:17:30 +0000",
+      "pumpkin_patch": "2025-07-07 01:18:25 +0000",
       "prairie": "2025-07-02 01:07:40 +0000",
+      "snowy_coniferous_forest": "2025-07-07 01:22:13 +0000",
+      "snowy_fir_clearing": "2025-07-07 01:22:19 +0000",
+      "gravel_beach": "2025-07-07 01:13:18 +0000",
       "rainforest": "2025-07-02 00:28:23 +0000",
-      "crag": "2025-07-03 00:05:07 +0000"
+      "crag": "2025-07-03 00:05:07 +0000",
+      "snowy_maple_woods": "2025-07-07 01:21:15 +0000",
+      "ominous_woods": "2025-07-07 01:14:11 +0000"
     },
     "done": false
   },
@@ -457,15 +470,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-02 01:08:47 +0000",
+      "minecraft:frozen_river": "2025-07-07 01:21:10 +0000",
       "minecraft:birch_forest": "2025-07-04 01:13:24 +0000",
       "minecraft:beach": "2025-07-02 01:06:33 +0000",
       "minecraft:lukewarm_ocean": "2025-07-02 00:31:43 +0000",
       "minecraft:river": "2025-07-02 01:06:42 +0000",
       "minecraft:stony_shore": "2025-07-02 00:29:55 +0000",
+      "minecraft:snowy_plains": "2025-07-07 01:20:51 +0000",
+      "minecraft:snowy_taiga": "2025-07-07 01:20:54 +0000",
       "minecraft:swamp": "2025-07-04 01:17:02 +0000",
       "minecraft:jagged_peaks": "2025-07-02 01:08:48 +0000",
       "minecraft:forest": "2025-07-04 01:13:28 +0000",
+      "minecraft:frozen_ocean": "2025-07-07 01:31:52 +0000",
       "minecraft:ocean": "2025-07-02 01:06:23 +0000",
+      "minecraft:snowy_beach": "2025-07-07 01:25:17 +0000",
       "minecraft:meadow": "2025-07-04 02:26:56 +0000",
       "minecraft:plains": "2025-07-02 01:08:00 +0000"
     },
@@ -4930,6 +4948,48 @@
   "untamedwilds:zoology/root": {
     "criteria": {
       "patchouli_not_loaded": "2025-07-04 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_lead_3": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_blanket_5": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_pasture_blanket_3_short": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_halter_lead": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/decorations/rack_pasture_blanket_5_long": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/red_maple_leaf_pile": {
+    "criteria": {
+      "has_red_maple_leaves": "2025-07-07 00:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-07 01:06:49 +0000"
     },
     "done": true
   },

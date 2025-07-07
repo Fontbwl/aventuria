@@ -2562,9 +2562,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/spruce": {
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
-      "has_wood": "2025-07-04 01:26:22 +0000"
+      "has_rose_quartz_chunk": "2025-07-04 01:09:15 +0000"
     },
     "done": true
   },
@@ -2574,33 +2574,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_cup": {
+  "mcwwindows:recipes/spruce": {
     "criteria": {
-      "has_wood_cup": "2025-07-04 01:26:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-07-04 01:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-07-04 01:26:30 +0000"
+      "has_wood": "2025-07-04 01:26:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-04 01:26:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2025-07-04 01:09:15 +0000"
     },
     "done": true
   },
@@ -2616,6 +2598,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-07-04 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-04 01:26:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-07-04 01:26:30 +0000"
@@ -2625,6 +2619,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-07-04 01:26:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-04 01:31:52 +0000"
     },
     "done": true
   },
