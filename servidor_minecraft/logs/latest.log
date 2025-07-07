@@ -1956,3 +1956,253 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [07Jul2025 02:23:20.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
 [07Jul2025 02:23:21.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
 [07Jul2025 02:23:21.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:24:02.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:24:02.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:24:02.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:24:02.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:24:03.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:24:03.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:24:03.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:24:03.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:24:03.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:24:03.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:24:04.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:24:04.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:24:20.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:24:20.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:24:20.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:24:20.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:24:20.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:24:20.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:24:20.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:24:20.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:24:21.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:24:21.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:24:21.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:24:21.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:25:02.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:25:02.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:25:02.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:25:02.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:25:03.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:25:03.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:25:03.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:25:03.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:25:03.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:25:03.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:25:04.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:25:04.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:25:19.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:25:19.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:25:19.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:25:19.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:25:20.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:25:20.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:25:20.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:25:20.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:25:20.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:25:20.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:25:21.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:25:21.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:26:02.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:26:02.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:26:02.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:26:02.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:26:03.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:26:03.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:26:03.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:26:03.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:26:03.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:26:04.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:26:05.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:26:05.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:26:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:26:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:26:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:26:19.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:26:19.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:26:19.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:26:19.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:26:20.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:26:20.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:26:20.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:26:21.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:26:21.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:27:03.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:27:03.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:27:03.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:27:03.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:27:04.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:27:04.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:27:04.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:27:04.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:27:04.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:27:04.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:27:05.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:27:05.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:27:19.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:27:19.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:27:19.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:27:19.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:27:20.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:27:20.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:27:20.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:27:20.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:27:20.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:27:20.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:27:21.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:27:21.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:28:03.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:28:03.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:28:03.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:28:03.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:28:04.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:28:04.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:28:04.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:28:04.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:28:04.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:28:04.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:28:05.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:28:05.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:28:20.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:28:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:28:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:28:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:28:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:28:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:28:20.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:28:21.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:28:21.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:28:21.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:28:22.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:28:22.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:29:03.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:29:03.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:29:03.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:29:04.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:29:04.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:29:04.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:29:04.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:29:05.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:29:05.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:29:06.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:29:07.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:29:07.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:29:20.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:29:20.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:29:20.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:29:20.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:29:21.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:29:21.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:29:21.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:29:21.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:29:21.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:29:21.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:29:22.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:29:22.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:30:05.224] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19544, l='ServerLevel[world]', x=-1173.98, y=105.66, z=-608.03]
+[07Jul2025 02:30:05.225] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19545, l='ServerLevel[world]', x=-1171.61, y=105.94, z=-608.03]
+[07Jul2025 02:30:05.225] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19547, l='ServerLevel[world]', x=-1166.73, y=104.83, z=-608.10]
+[07Jul2025 02:30:05.225] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19548, l='ServerLevel[world]', x=-1172.75, y=105.39, z=-608.50]
+[07Jul2025 02:30:05.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19549, l='ServerLevel[world]', x=-1173.98, y=104.83, z=-608.71]
+[07Jul2025 02:30:05.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19550, l='ServerLevel[world]', x=-1171.36, y=105.66, z=-608.10]
+[07Jul2025 02:30:05.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19551, l='ServerLevel[world]', x=-1172.68, y=105.25, z=-608.31]
+[07Jul2025 02:30:05.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19552, l='ServerLevel[world]', x=-1173.96, y=104.97, z=-608.06]
+[07Jul2025 02:30:05.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/19553, l='ServerLevel[world]', x=-1175.17, y=104.69, z=-608.39]
+[07Jul2025 02:30:05.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:30:05.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:30:05.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:30:05.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:30:05.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:30:05.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:30:05.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:30:05.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:30:06.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:30:06.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:30:06.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:30:06.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:30:19.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:30:19.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:30:19.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:30:19.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:30:20.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:30:20.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:30:20.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:30:20.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:30:20.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:30:20.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:30:21.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:30:21.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:30:23.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set own game mode to Spectator Mode]
+[07Jul2025 02:31:05.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:31:05.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:31:05.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:31:05.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:31:05.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:31:05.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:31:05.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:31:05.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:31:06.826] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:31:06.827] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:31:06.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:31:06.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:31:20.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:31:20.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:31:20.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:31:20.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:31:20.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:31:20.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:31:20.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:31:21.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:31:21.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:31:21.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:31:22.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:31:22.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:32:05.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:32:05.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:32:05.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:32:05.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:32:06.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:32:06.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:32:06.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:32:06.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:32:06.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:32:06.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:32:07.297] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:32:07.297] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:32:21.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:32:21.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:32:21.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:32:21.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:32:21.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:32:21.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:32:21.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:32:21.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:32:22.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:32:22.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:32:22.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:32:22.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:33:05.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:33:05.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:33:05.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:33:05.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:33:06.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:33:06.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:33:06.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:33:06.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:33:06.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:33:07.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:33:08.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:33:08.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:33:19.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:33:19.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:33:19.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:33:19.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:33:20.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:33:20.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:33:20.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:33:20.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:33:20.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:33:20.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:33:21.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:33:21.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
