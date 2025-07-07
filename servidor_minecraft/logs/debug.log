@@ -9736,3 +9736,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [07Jul2025 00:08:45.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abeldh left the game
 [07Jul2025 00:08:45.499] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of abeldh
 [07Jul2025 00:08:45.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client abeldh
+[07Jul2025 00:09:53.200] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 00:09:53.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:09:53.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 00:14:53.190] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 00:14:53.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:14:53.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
