@@ -12755,3 +12755,925 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [07Jul2025 02:33:32.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [07Jul2025 02:33:32.811] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [07Jul2025 02:33:33.010] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:42.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:42.414] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:42.614] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:42.815] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:43.021] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:43.212] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:43.520] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:33:43.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:34:04.408] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 02:34:04.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 02:34:04.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 02:34:05.680] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:05.773] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:34:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:34:06.679] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:34:06.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:34:06.679] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:06.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:34:06.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:34:07.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:34:07.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:07.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:34:07.857] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:07.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:34:07.920] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:07.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:34:08.077] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:17.910] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:34:18.270] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:34:19.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:19.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:20.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:34:20.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:34:20.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:34:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:20.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:34:20.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:34:21.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:34:21.836] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:21.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:34:21.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:34:21.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:34:21.933] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:21.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:34:22.110] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:44.974] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:34:45.881] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:46.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:34:47.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:34:47.075] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:47.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:34:47.265] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:55.418] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:34:55.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:34:57.265] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:57.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:34:57.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:34:57.967] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:34:57.967] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:34:57.967] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:34:57.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:34:57.968] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:34:58.217] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:35:05.916] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:06.166] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:07.009] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:07.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:35:07.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:35:07.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:35:07.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:35:07.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:35:07.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:35:07.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:07.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:35:08.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:35:08.106] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:08.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:35:08.164] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:12.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:35:12.240] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:35:12.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:35:12.461] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:35:20.110] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:21.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:35:21.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:35:21.066] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:35:21.066] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:35:21.066] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:35:21.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:35:21.067] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:21.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:35:22.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:35:22.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:22.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:35:22.262] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:35:55.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:55.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:55.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:56.067] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:56.465] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:56.612] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:56.816] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:57.067] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:35:57.264] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:01.468] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:01.615] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:01.808] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:03.313] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:03.462] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:03.918] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:04.162] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:04.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:04.613] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:36:07.274] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:07.280] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:07.367] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:07.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:36:08.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:36:08.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:36:08.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:36:08.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:36:08.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:36:08.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:36:08.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:08.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:36:08.417] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:08.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:36:08.465] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:09.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:36:10.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:36:10.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:10.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:36:10.815] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:11.516] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:11.965] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:12.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:12.767] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:13.057] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:13.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:13.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:14.416] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:14.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:15.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:15.368] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:20.330] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:20.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:36:20.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:36:20.340] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:36:20.340] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:36:20.340] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:36:20.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:36:20.341] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:20.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:36:21.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:36:21.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:36:21.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:36:21.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:36:21.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:36:21.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:36:21.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:21.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:36:21.490] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:21.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:36:21.498] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:59211
+[07Jul2025 02:36:21.518] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:21.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:36:21.531] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:36:22.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:36:22.520] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:22.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:36:22.678] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:37.316] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:37.465] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:37.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:38.710] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:38.918] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:40.913] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:41.612] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:41.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:42.074] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:43.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:43.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:43.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:43.813] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:44.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:36:44.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:36:44.451] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:36:44.451] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:36:44.451] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:36:44.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:36:44.451] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:44.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:36:45.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:36:45.672] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:45.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:36:45.833] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:36:47.465] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:47.666] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:47.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:48.066] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:48.214] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:48.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:50.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:50.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:50.515] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:50.713] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:50.859] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:51.066] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:51.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:51.415] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:51.617] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:51.966] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:58.010] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:58.215] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:58.416] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:36:58.664] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:00.315] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:00.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:00.713] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:00.912] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:01.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:01.414] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:01.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:01.967] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:02.263] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:02.527] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:03.165] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:03.364] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:03.564] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:03.965] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:04.260] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:06.161] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:07.463] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:07.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:07.614] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:07.675] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:07.857] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:08.116] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:08.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:08.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:37:08.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:37:08.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:37:08.586] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:08.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:37:08.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:37:09.315] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:09.510] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:09.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:37:09.702] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:09.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:37:09.714] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:09.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:37:09.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:09.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:37:09.817] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:09.862] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:10.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:10.062] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:10.222] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:10.364] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:10.516] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:10.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:10.861] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.014] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.161] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.315] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.611] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.806] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:11.962] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:12.065] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:12.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:12.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:12.721] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:12.911] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.062] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.212] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.363] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.660] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.814] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:13.970] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:14.317] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:19.764] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:19.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:20.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:37:20.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:37:20.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:20.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:37:20.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:37:21.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:37:21.719] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:21.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:37:21.762] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:37:21.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:37:21.924] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:21.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:37:22.084] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:37:30.865] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:31.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:32.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:32.611] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:32.917] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:33.162] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:33.665] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:34.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:34.516] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:34.715] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:34.926] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:35.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:35.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:35.816] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:36.564] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:36.667] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:36.814] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:37.017] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:38.473] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:38.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:38.862] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:39.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:39.812] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:40.664] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:40.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:41.067] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:41.313] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:41.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:42.165] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:42.314] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:42.516] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:42.760] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:43.064] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:55.868] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:56.063] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:58.817] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:37:59.263] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:02.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:02.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:02.874] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:03.019] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:03.272] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:04.665] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:07.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:38:07.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:38:07.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:38:07.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:38:07.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:38:07.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:38:07.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:08.014] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:08.014] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:08.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:38:08.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:38:08.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:38:08.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:38:08.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:38:08.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:38:08.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:38:08.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:09.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:38:09.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:38:09.171] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:09.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:38:09.211] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:10.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:38:10.127] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:10.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:38:10.283] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:13.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:13.309] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:14.666] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:20.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:20.310] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:20.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:38:20.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:38:20.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:21.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:38:21.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:38:22.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:38:22.107] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:22.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:38:22.161] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:38:22.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:38:22.170] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:22.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:38:22.357] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:38:24.067] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:34.612] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:43.312] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:46.012] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:46.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:46.812] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:38:50.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:04.419] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 02:39:04.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 02:39:04.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 02:39:08.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:08.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:39:08.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:39:08.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:39:08.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:39:08.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:39:08.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:39:08.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:08.333] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:08.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:39:09.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:39:09.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:39:09.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:39:09.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:39:09.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:39:09.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:39:09.240] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:09.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:39:09.402] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:09.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:39:09.461] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:09.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:39:10.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:39:10.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:10.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:39:10.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:14.561] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:20.314] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:20.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:21.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:39:21.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:39:21.313] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:21.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:39:21.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:21.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:39:22.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:39:22.401] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:22.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:39:22.464] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:39:22.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:39:22.522] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:22.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:39:33.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:39:33.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:39:33.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:39:33.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:39:33.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:39:33.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:39:33.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:33.537] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:47588
+[07Jul2025 02:39:33.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:39:33.576] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:34.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:39:34.569] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:34.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:39:34.760] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:39:47.515] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:48.567] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:51.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:52.421] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:53.821] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:54.065] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:54.315] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:57.468] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:57.714] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:39:57.928] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:08.523] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:08.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:40:08.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:40:08.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:40:08.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:40:08.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:40:08.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:40:08.529] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:08.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:40:08.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:09.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:40:09.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:40:09.538] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:40:09.538] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:40:09.539] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:40:09.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:40:09.539] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:09.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:40:09.613] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:09.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:40:09.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:09.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:40:10.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:40:10.730] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:10.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:40:10.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:20.615] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:20.916] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:21.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:40:21.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:40:21.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:40:21.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:40:21.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:40:21.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:21.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:40:21.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:40:22.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:40:22.672] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:22.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:40:22.766] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:40:22.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:40:22.819] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:22.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:40:22.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:40:24.613] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:24.914] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:25.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:25.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:25.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:25.772] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:26.072] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:26.263] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:26.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:30.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:30.207] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:30.361] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:32.011] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:32.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:32.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:32.610] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:32.807] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:33.171] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:36.017] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:38.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:38.609] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:39.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:39.256] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:42.310] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:42.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:42.660] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:42.922] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:43.108] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:43.258] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:43.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:43.560] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:43.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:43.875] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:44.057] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:44.205] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:44.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:44.560] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:44.758] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:44.958] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:45.111] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:45.257] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:45.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:45.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:45.613] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:45.863] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:46.014] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:46.113] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:46.260] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:46.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:46.661] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:46.911] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:47.061] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:47.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:47.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:47.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:47.715] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:48.059] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:48.412] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:48.610] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:49.810] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:49.959] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:50.158] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:50.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:50.608] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:50.856] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:51.457] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:51.664] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:51.813] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:52.911] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:53.105] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:53.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:56.061] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:56.458] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:56.719] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:56.906] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:57.161] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:57.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:57.658] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:57.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:57.964] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:58.761] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:58.913] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:40:59.060] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:02.609] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:03.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:06.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:06.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:06.865] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:07.211] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:07.361] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:07.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:07.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:07.810] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:07.961] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:08.114] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:08.262] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:08.416] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:08.563] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:08.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:41:08.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:41:08.799] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:41:08.799] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:41:08.799] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:41:08.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:41:08.799] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:08.811] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:08.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:41:08.905] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:08.961] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:09.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:41:09.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:41:09.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:41:09.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:41:09.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:41:09.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:41:09.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:09.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:41:09.901] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:09.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:41:09.963] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:09.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:41:10.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:41:10.999] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:10.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:41:11.371] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:12.610] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:18.959] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:19.204] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:19.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:20.908] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:21.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:41:21.864] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:41:21.865] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:21.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:41:22.009] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38959
+[07Jul2025 02:41:22.032] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:22.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:41:22.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:41:22.965] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:22.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:41:23.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:41:23.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:41:23.036] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:23.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:41:23.211] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:41:25.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:29.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:29.260] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:42.756] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:42.962] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:43.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:43.612] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:43.808] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:47.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:47.917] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:50.257] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:41:50.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:03.611] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:08.160] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:08.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:42:08.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:42:08.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:42:08.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:42:08.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:42:08.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:42:08.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:08.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:42:08.266] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:08.862] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:42:09.167] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:09.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:42:09.250] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:09.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:42:09.314] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:09.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:42:09.961] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:10.115] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:10.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:42:10.372] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:10.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:42:10.378] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:10.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:10.529] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:10.610] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:10.759] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:10.915] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:11.062] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:11.212] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:11.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:16.622] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:17.059] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:17.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:20.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:20.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:21.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:42:21.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:42:21.242] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:21.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:42:21.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:42:22.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:42:22.315] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:22.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:42:22.366] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:42:22.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:42:22.415] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:22.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:42:22.587] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:42:33.964] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:34.763] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:35.456] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:37.161] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:52.908] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:53.112] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:53.314] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:42:53.659] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:00.509] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:00.963] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:01.207] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:01.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:02.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:03.011] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:03.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:03.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:04.309] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:04.574] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:05.012] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:05.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:05.760] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:08.611] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:08.678] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:08.858] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:09.064] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:09.560] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:09.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:43:09.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:43:09.564] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:43:09.564] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:43:09.564] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:43:09.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:43:09.564] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:09.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:43:09.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:43:09.762] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:09.958] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:10.311] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:10.467] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:10.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:43:10.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:10.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:43:10.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:43:10.741] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:10.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:43:10.762] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:10.910] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:11.006] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:11.111] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:11.262] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:11.656] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:11.859] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:12.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:12.570] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:12.759] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:13.111] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:13.408] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:13.863] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:14.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:14.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:16.964] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:17.165] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:17.507] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[07Jul2025 02:43:20.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:20.909] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf4acde7-4836-35a6-8a1a-43a7ad904bec timed out
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalonzo
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dalonzo
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dalonzo
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Dalonzo
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalonzo
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cf4acde7-4836-35a6-8a1a-43a7ad904bec to disconnected: {disabled=false, disconnected=true, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 56df1c83-2517-315f-b356-f4b3f443fbce timed out
+[07Jul2025 02:43:21.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CesarDFA27
+[07Jul2025 02:43:21.643] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to CesarDFA27
+[07Jul2025 02:43:21.643] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CesarDFA27
+[07Jul2025 02:43:21.643] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with CesarDFA27
+[07Jul2025 02:43:21.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 02:43:21.643] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 56df1c83-2517-315f-b356-f4b3f443fbce to disconnected: {disabled=false, disconnected=true, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:21.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:43:21.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:43:22.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf4acde7-4836-35a6-8a1a-43a7ad904bec
+[07Jul2025 02:43:22.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dalonzo to connected: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:22.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalonzo (cf4acde7-4836-35a6-8a1a-43a7ad904bec) successfully connected to voice chat
+[07Jul2025 02:43:22.815] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dalonzo: {disabled=false, disconnected=false, uuid=cf4acde7-4836-35a6-8a1a-43a7ad904bec, name=Dalonzo, group=null}
+[07Jul2025 02:43:22.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 02:43:22.864] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CesarDFA27 to connected: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:22.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
+[07Jul2025 02:43:23.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CesarDFA27: {disabled=false, disconnected=false, uuid=56df1c83-2517-315f-b356-f4b3f443fbce, name=CesarDFA27, group=null}
+[07Jul2025 02:43:42.657] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
