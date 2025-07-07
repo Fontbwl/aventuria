@@ -9278,3 +9278,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [07Jul2025 23:29:20.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 23:29:20.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 23:31:20.240] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$25a4289413df44e989380d4aa2599e86 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[07Jul2025 23:34:20.123] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 23:34:20.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:34:20.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:39:20.095] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[07Jul2025 23:39:20.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:39:20.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
