@@ -65,13 +65,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1767.8176641376185,
+        "f_82479_": -1767.9306420048101,
         "f_82480_": 120.0,
-        "f_82481_": -442.61287887600434
+        "f_82481_": -441.88096444650773
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":212.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -290,13 +290,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1788.3170068563984,
-        "f_82480_": 116.0,
-        "f_82481_": -477.8461540521472
+        "f_82479_": -1788.3934066098889,
+        "f_82480_": 117.0,
+        "f_82481_": -476.83074449224887
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":190.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":194.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -356,7 +356,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":10.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -371,7 +371,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":170},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":172.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -455,13 +455,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1776.8251926879102,
+        "f_82479_": -1775.8214335139373,
         "f_82480_": 120.0,
-        "f_82481_": -440.96346088361537
+        "f_82481_": -439.8554727470395
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":204.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":208.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -515,13 +515,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1765.7325584317707,
+        "f_82479_": -1764.8645330610555,
         "f_82480_": 119.0,
-        "f_82481_": -443.6573743028868
+        "f_82481_": -442.81051162076204
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":212.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -671,7 +671,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -725,13 +725,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1780.8807517744644,
-        "f_82480_": 118.0,
-        "f_82481_": -472.8506500121503
+        "f_82479_": -1785.2537840045086,
+        "f_82480_": 119.0,
+        "f_82481_": -473.60248994260843
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":212.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -911,7 +911,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":200.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":204.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1205,13 +1205,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1757.765341552886,
+        "f_82479_": -1757.5706785795333,
         "f_82480_": 111.0,
-        "f_82481_": -482.51294965672133
+        "f_82481_": -482.3852083871642
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":196.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":200.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1400,13 +1400,13 @@
       "horseName": "SWEM Horse",
       "dimension": "minecraft:overworld",
       "position": {
-        "f_82479_": -1773.5165140315323,
-        "f_82480_": 121.0,
-        "f_82481_": -441.8135110380737
+        "f_82479_": -1772.6857063486086,
+        "f_82480_": 120.0,
+        "f_82481_": -440.66084022071664
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":212.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
