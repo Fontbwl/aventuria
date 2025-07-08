@@ -11340,3 +11340,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [08Jul2025 01:10:22.895] [Server thread/INFO] [Easy NPC/]: Opening menu 6d7c949c-efce-4fbe-99a6-075cb17c2d94 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/416, l='ServerLevel[world]', x=-1269.76, y=122.00, z=-337.79] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
 [08Jul2025 01:10:30.491] [Server thread/INFO] [Easy NPC/]: Opening menu 438ee2cc-20d3-44b4-95f1-5937c22a3127 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['Dalonzo'/416, l='ServerLevel[world]', x=-1269.76, y=122.00, z=-337.79] with ConfigurationMenu.DEFAULT_ROTATION[translation{key='text.easy_npc.config.default_rotation.title', args=[entity.easy_npc.]}]
 [08Jul2025 01:10:48.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalonzo moved too quickly! -5.457153489704069,-5.9562725762157385,-6.287019458768441
+[08Jul2025 01:14:26.100] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 01:14:26.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:14:26.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:16:20.489] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-785 | 46 | -802)
+[08Jul2025 01:16:20.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-785 | 46 | -802)
+[08Jul2025 01:16:20.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-798 | 46 | -806)
+[08Jul2025 01:16:20.491] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-798 | 46 | -806)
+[08Jul2025 01:16:20.491] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-795 | 37 | -818)
+[08Jul2025 01:16:20.491] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-795 | 37 | -818)
+[08Jul2025 01:16:20.491] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-796 | 37 | -813)
+[08Jul2025 01:16:20.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-796 | 37 | -813)
+[08Jul2025 01:16:20.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-794 | 37 | -804)
+[08Jul2025 01:16:20.494] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-794 | 37 | -804)
+[08Jul2025 01:16:20.524] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-794 | 37 | -820)
+[08Jul2025 01:16:20.524] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-794 | 37 | -820)
+[08Jul2025 01:16:20.524] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-795 | 37 | -818)
+[08Jul2025 01:16:20.524] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-795 | 37 | -818)
+[08Jul2025 01:16:20.524] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-798 | 37 | -833)
+[08Jul2025 01:16:20.526] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-798 | 37 | -833)
+[08Jul2025 01:16:20.544] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-798 | 37 | -833)
+[08Jul2025 01:16:20.544] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-798 | 37 | -833)
+[08Jul2025 01:19:26.098] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 01:19:26.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:19:26.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:20:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set own game mode to Spectator Mode]
+[08Jul2025 01:20:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalonzo: Set own game mode to Creative Mode]
+[08Jul2025 01:21:56.732] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:01.742] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:05.740] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:17.337] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:24.044] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:24.490] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:25.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:26.587] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:52.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:54.295] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 01:22:55.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
