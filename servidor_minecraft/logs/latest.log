@@ -79,3 +79,6 @@
 [08Jul2025 01:30:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalonzo has made the advancement [We do a little trolling...]
 [08Jul2025 01:34:53.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cortez'/93163, l='ServerLevel[world]', x=-1530.29, y=80.00, z=-541.41] died, message: 'Cortez was slain by Zombie'
 [08Jul2025 01:34:53.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cortez'/93163, l='ServerLevel[world]', x=-1530.29, y=80.00, z=-541.41] died: Cortez was slain by Zombie
+[08Jul2025 01:45:20.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalonzo lost connection: Disconnected
+[08Jul2025 01:45:20.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalonzo left the game
+[08Jul2025 01:45:20.084] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalonzo

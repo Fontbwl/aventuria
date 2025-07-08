@@ -11397,3 +11397,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [08Jul2025 01:44:26.087] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
 [08Jul2025 01:44:26.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 01:44:26.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:45:20.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalonzo lost connection: Disconnected
+[08Jul2025 01:45:20.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalonzo left the game
+[08Jul2025 01:45:20.084] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dalonzo
+[08Jul2025 01:45:20.084] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalonzo
+[08Jul2025 01:49:26.062] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 01:49:26.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:49:26.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:54:26.031] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 01:54:26.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:54:26.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
