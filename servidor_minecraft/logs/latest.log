@@ -1150,3 +1150,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [07Jul2025 23:27:08.603] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [07Jul2025 23:27:08.603] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [07Jul2025 23:27:08.603] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Jul2025 23:54:02.243] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 66
+[07Jul2025 23:54:02.244] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 67
+[07Jul2025 23:54:02.244] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 68
+[07Jul2025 23:54:02.244] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 69
+[07Jul2025 23:54:02.244] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 70
+[07Jul2025 23:54:02.245] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 71
+[07Jul2025 23:54:02.247] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 72
+[07Jul2025 23:54:02.249] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 73
+[07Jul2025 23:54:02.250] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 74
+[07Jul2025 23:54:02.251] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 75
+[07Jul2025 23:54:02.252] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 76
+[07Jul2025 23:54:02.252] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 77
+[07Jul2025 23:54:02.341] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 78
+[07Jul2025 23:54:02.341] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 79
+[07Jul2025 23:54:02.345] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 80
+[07Jul2025 23:54:02.354] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 81
+[07Jul2025 23:54:02.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesarDFA27[/127.156.245.80:56819] logged in with entity id 9323 at (-1267.6658551715293, 122.0, -336.19088736701997)
+[07Jul2025 23:54:02.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDFA27 joined the game
+[07Jul2025 23:54:02.632] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[07Jul2025 23:54:02.637] [Server thread/INFO] [Jade/]: Syncing config to CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce)
+[07Jul2025 23:54:03.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CesarDFA27 (18)
+[07Jul2025 23:54:03.901] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CesarDFA27
+[07Jul2025 23:54:12.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 23:54:13.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 56df1c83-2517-315f-b356-f4b3f443fbce
+[07Jul2025 23:54:13.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CesarDFA27 (56df1c83-2517-315f-b356-f4b3f443fbce) successfully connected to voice chat
