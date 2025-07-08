@@ -9856,3 +9856,526 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [08Jul2025 00:02:32.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rc25ncnwy4j]: Finished looking at arguments. Finalizing command.
 [08Jul2025 00:02:33.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qg323nwjury3]: started parsing
 [08Jul2025 00:02:33.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qg323nwjury3]: Consuming argument ``
+[08Jul2025 00:02:56.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h9aplb9aoxat]: started parsing
+[08Jul2025 00:02:56.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h9aplb9aoxat]: Consuming argument `south`
+[08Jul2025 00:02:56.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h9aplb9aoxat]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:02:56.727] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/aventuria/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23325!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[08Jul2025 00:02:56.751] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[08Jul2025 00:02:56.751] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[08Jul2025 00:02:58.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0awwzqpmdyoqs]: started parsing
+[08Jul2025 00:02:58.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0awwzqpmdyoqs]: Consuming argument `south`
+[08Jul2025 00:02:58.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0awwzqpmdyoqs]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:02:58.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p6kz0f88r8da]: started parsing
+[08Jul2025 00:02:58.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p6kz0f88r8da]: Consuming argument `south`
+[08Jul2025 00:02:58.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p6kz0f88r8da]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:02:59.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02iod2nyyo3es]: started parsing
+[08Jul2025 00:02:59.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02iod2nyyo3es]: Consuming argument `south`
+[08Jul2025 00:02:59.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02iod2nyyo3es]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:01.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xi3q5etnngfd]: started parsing
+[08Jul2025 00:03:01.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xi3q5etnngfd]: Consuming argument `south`
+[08Jul2025 00:03:01.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xi3q5etnngfd]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:01.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmpf7v59xd64]: started parsing
+[08Jul2025 00:03:01.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmpf7v59xd64]: Consuming argument `south`
+[08Jul2025 00:03:01.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmpf7v59xd64]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:02.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ik1gl2gb546l]: started parsing
+[08Jul2025 00:03:02.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ik1gl2gb546l]: Consuming argument `south`
+[08Jul2025 00:03:02.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ik1gl2gb546l]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:03.167] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmal09rkqz8s]: started parsing
+[08Jul2025 00:03:03.167] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmal09rkqz8s]: Consuming argument `south`
+[08Jul2025 00:03:03.167] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmal09rkqz8s]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:03.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj00lqk951jt]: started parsing
+[08Jul2025 00:03:03.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj00lqk951jt]: Consuming argument `south`
+[08Jul2025 00:03:03.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj00lqk951jt]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:03.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09itz8u5e6rs1]: started parsing
+[08Jul2025 00:03:03.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09itz8u5e6rs1]: Consuming argument `south`
+[08Jul2025 00:03:03.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09itz8u5e6rs1]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:04.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sy10jzoo15l]: started parsing
+[08Jul2025 00:03:04.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sy10jzoo15l]: Consuming argument `south`
+[08Jul2025 00:03:04.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sy10jzoo15l]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:04.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwsrmx1an67c]: started parsing
+[08Jul2025 00:03:04.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwsrmx1an67c]: Consuming argument `south`
+[08Jul2025 00:03:04.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwsrmx1an67c]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:04.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1io8acdmtg6c9]: started parsing
+[08Jul2025 00:03:04.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1io8acdmtg6c9]: Consuming argument `south`
+[08Jul2025 00:03:04.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1io8acdmtg6c9]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:07.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vnkipjscw24]: started parsing
+[08Jul2025 00:03:07.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vnkipjscw24]: Consuming argument ``
+[08Jul2025 00:03:07.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vnkipjscw24]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:09.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0asy27jhddb1y]: started parsing
+[08Jul2025 00:03:09.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0asy27jhddb1y]: Consuming argument `4`
+[08Jul2025 00:03:09.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0asy27jhddb1y]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:09.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qdcktlx8oz38]: started parsing
+[08Jul2025 00:03:09.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qdcktlx8oz38]: Consuming argument `4`
+[08Jul2025 00:03:09.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qdcktlx8oz38]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:18.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f95zi4c3561i]: started parsing
+[08Jul2025 00:03:18.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f95zi4c3561i]: Consuming argument `4`
+[08Jul2025 00:03:18.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f95zi4c3561i]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:18.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvswa2d0n68k]: started parsing
+[08Jul2025 00:03:18.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvswa2d0n68k]: Consuming argument `4`
+[08Jul2025 00:03:18.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvswa2d0n68k]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:19.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ksu9gtyw5k8m]: started parsing
+[08Jul2025 00:03:19.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ksu9gtyw5k8m]: Consuming argument `south`
+[08Jul2025 00:03:19.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ksu9gtyw5k8m]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:19.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0siulbz72sz25]: started parsing
+[08Jul2025 00:03:19.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0siulbz72sz25]: Consuming argument `south`
+[08Jul2025 00:03:19.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0siulbz72sz25]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:20.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llcwhcp6qwld]: started parsing
+[08Jul2025 00:03:20.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llcwhcp6qwld]: Consuming argument `south`
+[08Jul2025 00:03:20.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llcwhcp6qwld]: Consuming argument ``
+[08Jul2025 00:03:21.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t66iyoxm3eub]: started parsing
+[08Jul2025 00:03:21.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t66iyoxm3eub]: Consuming argument `south`
+[08Jul2025 00:03:21.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t66iyoxm3eub]: Consuming argument `3`
+[08Jul2025 00:03:21.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t66iyoxm3eub]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:22.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g58tycfv3qk2]: started parsing
+[08Jul2025 00:03:22.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g58tycfv3qk2]: Consuming argument `south`
+[08Jul2025 00:03:22.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g58tycfv3qk2]: Consuming argument `3`
+[08Jul2025 00:03:22.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g58tycfv3qk2]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:25.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9lnv0ses18h]: started parsing
+[08Jul2025 00:03:25.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9lnv0ses18h]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:28.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0wewhbu4b0]: started parsing
+[08Jul2025 00:03:28.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0wewhbu4b0]: Consuming argument `south`
+[08Jul2025 00:03:28.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0wewhbu4b0]: Consuming argument `3`
+[08Jul2025 00:03:28.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0wewhbu4b0]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:28.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ww8y6uvrruwf]: started parsing
+[08Jul2025 00:03:28.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ww8y6uvrruwf]: Consuming argument `south`
+[08Jul2025 00:03:28.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ww8y6uvrruwf]: Consuming argument `3`
+[08Jul2025 00:03:28.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ww8y6uvrruwf]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:29.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fzrn75cj1asp]: started parsing
+[08Jul2025 00:03:29.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fzrn75cj1asp]: Consuming argument `south`
+[08Jul2025 00:03:29.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fzrn75cj1asp]: Consuming argument ``
+[08Jul2025 00:03:29.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uccl63ak1nl4]: started parsing
+[08Jul2025 00:03:29.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uccl63ak1nl4]: Consuming argument `south`
+[08Jul2025 00:03:29.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uccl63ak1nl4]: Consuming argument `5`
+[08Jul2025 00:03:29.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uccl63ak1nl4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:29.995] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17razpocet05p]: started parsing
+[08Jul2025 00:03:29.995] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17razpocet05p]: Consuming argument `south`
+[08Jul2025 00:03:29.996] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17razpocet05p]: Consuming argument `5`
+[08Jul2025 00:03:29.996] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17razpocet05p]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:47.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125agf9ud16z5]: started parsing
+[08Jul2025 00:03:47.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125agf9ud16z5]: Consuming argument `south`
+[08Jul2025 00:03:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125agf9ud16z5]: Consuming argument `5`
+[08Jul2025 00:03:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125agf9ud16z5]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmsjjviab80m]: started parsing
+[08Jul2025 00:03:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmsjjviab80m]: Consuming argument `south`
+[08Jul2025 00:03:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmsjjviab80m]: Consuming argument `5`
+[08Jul2025 00:03:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmsjjviab80m]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbc0sfu9y3re]: started parsing
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbc0sfu9y3re]: Consuming argument `south`
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbc0sfu9y3re]: Consuming argument `3`
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbc0sfu9y3re]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k4afpspi09p]: started parsing
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k4afpspi09p]: Consuming argument `south`
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k4afpspi09p]: Consuming argument `3`
+[08Jul2025 00:03:48.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k4afpspi09p]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:03:49.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dlqjugoyire]: started parsing
+[08Jul2025 00:03:49.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dlqjugoyire]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:10.648] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:04:13.549] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:04:20.098] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 00:04:20.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:04:20.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:04:31.846] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:04:49.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5zysvst3sth]: started parsing
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5zysvst3sth]: Consuming argument `south`
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5zysvst3sth]: Consuming argument `5`
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l5zysvst3sth]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icxw8befp3hi]: started parsing
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icxw8befp3hi]: Consuming argument `south`
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icxw8befp3hi]: Consuming argument `5`
+[08Jul2025 00:04:49.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icxw8befp3hi]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:50.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ql6u0zp82ozs]: started parsing
+[08Jul2025 00:04:50.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ql6u0zp82ozs]: Consuming argument `south`
+[08Jul2025 00:04:50.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ql6u0zp82ozs]: Consuming argument ``
+[08Jul2025 00:04:50.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cgzz31txx0oe]: started parsing
+[08Jul2025 00:04:50.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cgzz31txx0oe]: Consuming argument `south`
+[08Jul2025 00:04:50.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cgzz31txx0oe]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:51.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngteot7j6qy0]: started parsing
+[08Jul2025 00:04:51.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngteot7j6qy0]: Consuming argument `south`
+[08Jul2025 00:04:51.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngteot7j6qy0]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:53.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1822ist4ptehw]: started parsing
+[08Jul2025 00:04:53.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1822ist4ptehw]: Consuming argument `south`
+[08Jul2025 00:04:53.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1822ist4ptehw]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:53.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [001xl7691dz1f]: started parsing
+[08Jul2025 00:04:53.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [001xl7691dz1f]: Consuming argument `south`
+[08Jul2025 00:04:53.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [001xl7691dz1f]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:04:53.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bi6cs2avxmgq]: started parsing
+[08Jul2025 00:04:53.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bi6cs2avxmgq]: Consuming argument `south`
+[08Jul2025 00:04:53.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bi6cs2avxmgq]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:02.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gdjmbadnhb1i]: started parsing
+[08Jul2025 00:05:02.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gdjmbadnhb1i]: Consuming argument `south`
+[08Jul2025 00:05:02.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gdjmbadnhb1i]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:02.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eox34st6akto]: started parsing
+[08Jul2025 00:05:02.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eox34st6akto]: Consuming argument `south`
+[08Jul2025 00:05:02.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eox34st6akto]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:02.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qq68u3usj0hm]: started parsing
+[08Jul2025 00:05:02.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qq68u3usj0hm]: Consuming argument `south`
+[08Jul2025 00:05:02.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qq68u3usj0hm]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:20.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hurwoulbx4v3]: started parsing
+[08Jul2025 00:05:20.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hurwoulbx4v3]: Consuming argument `south`
+[08Jul2025 00:05:20.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hurwoulbx4v3]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:20.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19myh1ph7fngz]: started parsing
+[08Jul2025 00:05:20.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19myh1ph7fngz]: Consuming argument `south`
+[08Jul2025 00:05:20.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19myh1ph7fngz]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:22.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u0vwbptbxc4]: started parsing
+[08Jul2025 00:05:22.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u0vwbptbxc4]: Consuming argument `south`
+[08Jul2025 00:05:22.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u0vwbptbxc4]: Consuming argument `5`
+[08Jul2025 00:05:22.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u0vwbptbxc4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:22.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcj67vqbac9p]: started parsing
+[08Jul2025 00:05:22.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcj67vqbac9p]: Consuming argument `south`
+[08Jul2025 00:05:22.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcj67vqbac9p]: Consuming argument `5`
+[08Jul2025 00:05:22.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcj67vqbac9p]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:24.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ol3fxjs51qe6]: started parsing
+[08Jul2025 00:05:24.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ol3fxjs51qe6]: Consuming argument ``
+[08Jul2025 00:05:24.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ol3fxjs51qe6]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:24.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo1xl86f82z9]: started parsing
+[08Jul2025 00:05:24.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo1xl86f82z9]: Consuming argument `3`
+[08Jul2025 00:05:24.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo1xl86f82z9]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:25.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ts6vb9ewvei]: started parsing
+[08Jul2025 00:05:25.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ts6vb9ewvei]: Consuming argument `3s`
+[08Jul2025 00:05:25.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ts6vb9ewvei]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:26.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [022e0padfp0no]: started parsing
+[08Jul2025 00:05:26.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [022e0padfp0no]: Consuming argument `3`
+[08Jul2025 00:05:26.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [022e0padfp0no]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:26.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9f1qs8njdny]: started parsing
+[08Jul2025 00:05:26.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9f1qs8njdny]: Consuming argument `3`
+[08Jul2025 00:05:26.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9f1qs8njdny]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:38.650] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:05:38.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:05:39.203] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:05:39.451] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:05:39.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:05:54.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [080cwdlh7cp54]: started parsing
+[08Jul2025 00:05:54.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [080cwdlh7cp54]: Consuming argument `3`
+[08Jul2025 00:05:54.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [080cwdlh7cp54]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:54.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00yhtjh6daf29]: started parsing
+[08Jul2025 00:05:54.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00yhtjh6daf29]: Consuming argument `3`
+[08Jul2025 00:05:54.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00yhtjh6daf29]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:55.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dqpmyvsoq8n2]: started parsing
+[08Jul2025 00:05:55.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dqpmyvsoq8n2]: Consuming argument `south`
+[08Jul2025 00:05:55.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dqpmyvsoq8n2]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:55.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qmlb98fxolfo]: started parsing
+[08Jul2025 00:05:55.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qmlb98fxolfo]: Consuming argument `south`
+[08Jul2025 00:05:55.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qmlb98fxolfo]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:56.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0119nfdb8jttv]: started parsing
+[08Jul2025 00:05:56.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0119nfdb8jttv]: Consuming argument `south`
+[08Jul2025 00:05:56.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0119nfdb8jttv]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:56.765] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-376}
+[08Jul2025 00:05:56.766] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-377}
+[08Jul2025 00:05:58.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dstaj93wqjvo]: started parsing
+[08Jul2025 00:05:58.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dstaj93wqjvo]: Consuming argument `south`
+[08Jul2025 00:05:58.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dstaj93wqjvo]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:58.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7kjbp3dkbea]: started parsing
+[08Jul2025 00:05:58.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7kjbp3dkbea]: Consuming argument `south`
+[08Jul2025 00:05:58.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7kjbp3dkbea]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:58.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lx1mu9fksmf4]: started parsing
+[08Jul2025 00:05:58.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lx1mu9fksmf4]: Consuming argument `south`
+[08Jul2025 00:05:58.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lx1mu9fksmf4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:05:58.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-375}
+[08Jul2025 00:05:58.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-376}
+[08Jul2025 00:06:01.965] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pzz15fkyxqdl]: started parsing
+[08Jul2025 00:06:01.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pzz15fkyxqdl]: Consuming argument `south`
+[08Jul2025 00:06:01.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pzz15fkyxqdl]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:01.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wkd0itydrcdx]: started parsing
+[08Jul2025 00:06:01.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wkd0itydrcdx]: Consuming argument `south`
+[08Jul2025 00:06:01.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wkd0itydrcdx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:02.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nfvdzvri5eof]: started parsing
+[08Jul2025 00:06:02.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nfvdzvri5eof]: Consuming argument `3`
+[08Jul2025 00:06:02.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nfvdzvri5eof]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:02.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ds9czif0304]: started parsing
+[08Jul2025 00:06:02.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ds9czif0304]: Consuming argument `3`
+[08Jul2025 00:06:02.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ds9czif0304]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:03.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9z8rztxhnlr]: started parsing
+[08Jul2025 00:06:03.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9z8rztxhnlr]: Consuming argument ``
+[08Jul2025 00:06:03.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9z8rztxhnlr]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:03.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kqnm6sgne1wk]: started parsing
+[08Jul2025 00:06:03.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kqnm6sgne1wk]: Consuming argument `2`
+[08Jul2025 00:06:03.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kqnm6sgne1wk]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:03.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gd7fw97o5kdq]: started parsing
+[08Jul2025 00:06:03.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gd7fw97o5kdq]: Consuming argument `2`
+[08Jul2025 00:06:03.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gd7fw97o5kdq]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:03.658] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-374}
+[08Jul2025 00:06:03.659] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-375}
+[08Jul2025 00:06:03.659] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-376}
+[08Jul2025 00:06:03.659] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-375}
+[08Jul2025 00:06:11.752] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:06:37.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jre3ip6j5a4b]: started parsing
+[08Jul2025 00:06:37.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jre3ip6j5a4b]: Consuming argument `2`
+[08Jul2025 00:06:37.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jre3ip6j5a4b]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:37.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckznvtylij3p]: started parsing
+[08Jul2025 00:06:37.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckznvtylij3p]: Consuming argument `2`
+[08Jul2025 00:06:37.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckznvtylij3p]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:37.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09fzr7o15chwy]: started parsing
+[08Jul2025 00:06:37.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09fzr7o15chwy]: Consuming argument `south`
+[08Jul2025 00:06:37.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09fzr7o15chwy]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:37.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eai8qdjrmor7]: started parsing
+[08Jul2025 00:06:37.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eai8qdjrmor7]: Consuming argument `south`
+[08Jul2025 00:06:37.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eai8qdjrmor7]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:38.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fkj1qcfpgk45]: started parsing
+[08Jul2025 00:06:38.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fkj1qcfpgk45]: Consuming argument `south`
+[08Jul2025 00:06:38.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fkj1qcfpgk45]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:38.584] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-376}
+[08Jul2025 00:06:38.584] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-377}
+[08Jul2025 00:06:40.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b6edyop54tak]: started parsing
+[08Jul2025 00:06:40.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b6edyop54tak]: Consuming argument `south`
+[08Jul2025 00:06:40.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b6edyop54tak]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:40.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h7oapzusq4oh]: started parsing
+[08Jul2025 00:06:40.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h7oapzusq4oh]: Consuming argument `south`
+[08Jul2025 00:06:40.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h7oapzusq4oh]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:40.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ec71xg752cr]: started parsing
+[08Jul2025 00:06:40.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ec71xg752cr]: Consuming argument `south`
+[08Jul2025 00:06:40.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ec71xg752cr]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:40.629] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-375}
+[08Jul2025 00:06:40.629] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-376}
+[08Jul2025 00:06:41.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p4e04o3ek5bu]: started parsing
+[08Jul2025 00:06:41.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p4e04o3ek5bu]: Consuming argument `south`
+[08Jul2025 00:06:41.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p4e04o3ek5bu]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:41.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1udia3980bbig]: started parsing
+[08Jul2025 00:06:41.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1udia3980bbig]: Consuming argument `south`
+[08Jul2025 00:06:41.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1udia3980bbig]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:41.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00xmood1s453u]: started parsing
+[08Jul2025 00:06:41.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00xmood1s453u]: Consuming argument `south`
+[08Jul2025 00:06:41.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00xmood1s453u]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:42.010] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-374}
+[08Jul2025 00:06:42.010] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-375}
+[08Jul2025 00:06:53.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fjfv9gluz883]: started parsing
+[08Jul2025 00:06:53.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fjfv9gluz883]: Consuming argument `south`
+[08Jul2025 00:06:53.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fjfv9gluz883]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:53.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5b1x3zjm0u6]: started parsing
+[08Jul2025 00:06:53.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5b1x3zjm0u6]: Consuming argument `south`
+[08Jul2025 00:06:53.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5b1x3zjm0u6]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:53.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k4hb11fy1gmq]: started parsing
+[08Jul2025 00:06:53.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k4hb11fy1gmq]: Consuming argument `south`
+[08Jul2025 00:06:53.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k4hb11fy1gmq]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:06:53.894] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-373}
+[08Jul2025 00:06:53.894] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=99, z=-374}
+[08Jul2025 00:07:03.698] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:11.899] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:12.198] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:12.447] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:14.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:14.445] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:14.644] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:15.052] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:15.245] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:15.699] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:44.096] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:46.793] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:47.101] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:47.549] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:47.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:54.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:54.296] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:07:54.449] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:16.548] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:16.848] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:17.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:17.352] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:17.696] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:17.947] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:18.051] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:18.256] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:23.101] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:23.350] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:23.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:23.901] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:24.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:24.848] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:25.051] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:25.154] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:25.349] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:25.554] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:25.746] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:25.849] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:26.049] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:26.259] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:26.445] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:26.554] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:26.747] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:26.898] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:27.044] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:27.248] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:27.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:27.702] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:27.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:28.200] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:28.448] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:28.697] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:31.949] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:33.551] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:39.800] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:40.099] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:42.801] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:43.153] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:47.058] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:47.253] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:47.451] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:47.850] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:48.101] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:48.550] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:48.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:48.847] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:49.301] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:49.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:50.095] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:50.252] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:50.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:50.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:50.801] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:51.349] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:51.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:51.957] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:52.101] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:52.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:52.643] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:52.802] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:53.099] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:53.453] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:53.798] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:54.496] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:54.648] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:55.249] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:55.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:55.597] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:56.096] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:56.252] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:56.794] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:08:57.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:09:20.094] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 00:09:20.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:09:20.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:09:20.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [115gt6wbjuzsn]: started parsing
+[08Jul2025 00:09:20.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [115gt6wbjuzsn]: Consuming argument `south`
+[08Jul2025 00:09:20.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [115gt6wbjuzsn]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:20.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fckthsw6e6nx]: started parsing
+[08Jul2025 00:09:20.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fckthsw6e6nx]: Consuming argument `south`
+[08Jul2025 00:09:20.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fckthsw6e6nx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:21.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dgidp2k1ejg4]: started parsing
+[08Jul2025 00:09:21.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dgidp2k1ejg4]: Consuming argument `2`
+[08Jul2025 00:09:21.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dgidp2k1ejg4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:21.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mj59zz930wbp]: started parsing
+[08Jul2025 00:09:21.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mj59zz930wbp]: Consuming argument `2`
+[08Jul2025 00:09:21.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mj59zz930wbp]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:22.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pi0vsremkevx]: started parsing
+[08Jul2025 00:09:22.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pi0vsremkevx]: Consuming argument `south`
+[08Jul2025 00:09:22.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pi0vsremkevx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:22.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0clvtu2twp75m]: started parsing
+[08Jul2025 00:09:22.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0clvtu2twp75m]: Consuming argument `south`
+[08Jul2025 00:09:22.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0clvtu2twp75m]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:22.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06u7u8xqms0ix]: started parsing
+[08Jul2025 00:09:22.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06u7u8xqms0ix]: Consuming argument `3`
+[08Jul2025 00:09:22.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06u7u8xqms0ix]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:22.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ktsvafqk5is]: started parsing
+[08Jul2025 00:09:22.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ktsvafqk5is]: Consuming argument `3`
+[08Jul2025 00:09:22.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ktsvafqk5is]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:22.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hojhg7brk46]: started parsing
+[08Jul2025 00:09:22.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hojhg7brk46]: Consuming argument `south`
+[08Jul2025 00:09:22.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hojhg7brk46]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:22.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05hxoxayfmn5t]: started parsing
+[08Jul2025 00:09:22.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05hxoxayfmn5t]: Consuming argument `south`
+[08Jul2025 00:09:22.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05hxoxayfmn5t]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:23.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vekzkwepp7ft]: started parsing
+[08Jul2025 00:09:23.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vekzkwepp7ft]: Consuming argument `south`
+[08Jul2025 00:09:23.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vekzkwepp7ft]: Consuming argument `5`
+[08Jul2025 00:09:23.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vekzkwepp7ft]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:23.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ub3z3cdqbd6]: started parsing
+[08Jul2025 00:09:23.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ub3z3cdqbd6]: Consuming argument `south`
+[08Jul2025 00:09:23.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ub3z3cdqbd6]: Consuming argument `5`
+[08Jul2025 00:09:23.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ub3z3cdqbd6]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:24.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [140w49ty64e9i]: started parsing
+[08Jul2025 00:09:24.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [140w49ty64e9i]: Consuming argument `south`
+[08Jul2025 00:09:24.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [140w49ty64e9i]: Consuming argument `3`
+[08Jul2025 00:09:24.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [140w49ty64e9i]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:24.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfqqnz6fzepe]: started parsing
+[08Jul2025 00:09:24.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfqqnz6fzepe]: Consuming argument `south`
+[08Jul2025 00:09:24.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfqqnz6fzepe]: Consuming argument `3`
+[08Jul2025 00:09:24.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfqqnz6fzepe]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:24.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fxycz8yvj7hf]: started parsing
+[08Jul2025 00:09:24.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fxycz8yvj7hf]: Consuming argument `4`
+[08Jul2025 00:09:24.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fxycz8yvj7hf]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:24.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06v8o0ufxcezm]: started parsing
+[08Jul2025 00:09:24.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06v8o0ufxcezm]: Consuming argument `4`
+[08Jul2025 00:09:24.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06v8o0ufxcezm]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:24.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06pk9jh1dftvv]: started parsing
+[08Jul2025 00:09:24.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06pk9jh1dftvv]: Consuming argument `south`
+[08Jul2025 00:09:24.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06pk9jh1dftvv]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:24.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cya761zzitc5]: started parsing
+[08Jul2025 00:09:24.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cya761zzitc5]: Consuming argument `south`
+[08Jul2025 00:09:24.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cya761zzitc5]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:27.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrgpqxc2rg9i]: started parsing
+[08Jul2025 00:09:27.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrgpqxc2rg9i]: Consuming argument ``
+[08Jul2025 00:09:28.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dcicp9zain1e]: started parsing
+[08Jul2025 00:09:28.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dcicp9zain1e]: Consuming argument `m`
+[08Jul2025 00:09:28.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12kkpror4dtnp]: started parsing
+[08Jul2025 00:09:28.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12kkpror4dtnp]: Consuming argument `mi`
+[08Jul2025 00:09:28.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3butxedqy16]: started parsing
+[08Jul2025 00:09:28.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3butxedqy16]: Consuming argument `min`
+[08Jul2025 00:09:29.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x978dcrhu0d1]: started parsing
+[08Jul2025 00:09:29.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x978dcrhu0d1]: Consuming argument `mine`
+[08Jul2025 00:09:29.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p2xcxl1radft]: started parsing
+[08Jul2025 00:09:29.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p2xcxl1radft]: Consuming argument `minec`
+[08Jul2025 00:09:29.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d4dxz1cmyuzw]: started parsing
+[08Jul2025 00:09:29.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d4dxz1cmyuzw]: Consuming argument `minecr`
+[08Jul2025 00:09:29.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ml8oynvnermq]: started parsing
+[08Jul2025 00:09:29.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ml8oynvnermq]: Consuming argument `minecra`
+[08Jul2025 00:09:29.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jl3uxal02w9y]: started parsing
+[08Jul2025 00:09:29.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jl3uxal02w9y]: Consuming argument `minecraf`
+[08Jul2025 00:09:29.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0of372k86nhhl]: started parsing
+[08Jul2025 00:09:29.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0of372k86nhhl]: Consuming argument `minecraft`
+[08Jul2025 00:09:31.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xnbr3f8l4jae]: started parsing
+[08Jul2025 00:09:31.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xnbr3f8l4jae]: Consuming argument `minecraft:`
+[08Jul2025 00:09:32.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xvooymgv6eiz]: started parsing
+[08Jul2025 00:09:32.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xvooymgv6eiz]: Consuming argument `minecraft:s`
+[08Jul2025 00:09:33.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fxzws3d7a73h]: started parsing
+[08Jul2025 00:09:33.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fxzws3d7a73h]: Consuming argument `minecraft:st`
+[08Jul2025 00:09:33.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yqrvn0ceuen4]: started parsing
+[08Jul2025 00:09:33.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yqrvn0ceuen4]: Consuming argument `minecraft:sto`
+[08Jul2025 00:09:33.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11f7iu5v8iqz9]: started parsing
+[08Jul2025 00:09:33.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11f7iu5v8iqz9]: Consuming argument `minecraft:ston`
+[08Jul2025 00:09:33.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kidxs6jnfzvx]: started parsing
+[08Jul2025 00:09:33.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kidxs6jnfzvx]: Consuming argument `minecraft:stone`
+[08Jul2025 00:09:33.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kidxs6jnfzvx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:35.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mkxakdyc4z6]: started parsing
+[08Jul2025 00:09:35.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mkxakdyc4z6]: Consuming argument `minecraft:stone:`
+[08Jul2025 00:09:35.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0onyxvc4wfqmn]: started parsing
+[08Jul2025 00:09:35.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0onyxvc4wfqmn]: Consuming argument `minecraft:stone`
+[08Jul2025 00:09:35.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0onyxvc4wfqmn]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:35.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cboxtu50skrj]: started parsing
+[08Jul2025 00:09:35.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cboxtu50skrj]: Consuming argument `minecraft:stone_`
+[08Jul2025 00:09:36.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yezfzbsjb4aw]: started parsing
+[08Jul2025 00:09:36.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yezfzbsjb4aw]: Consuming argument `minecraft:stone_s`
+[08Jul2025 00:09:36.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yqam9v7ndceg]: started parsing
+[08Jul2025 00:09:36.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yqam9v7ndceg]: Consuming argument `minecraft:stone_`
+[08Jul2025 00:09:37.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcyuq8bauzk9]: started parsing
+[08Jul2025 00:09:37.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcyuq8bauzk9]: Consuming argument `minecraft:stone_b`
+[08Jul2025 00:09:40.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16p8kcl37n389]: started parsing
+[08Jul2025 00:09:40.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16p8kcl37n389]: Consuming argument `minecraft:stone_bricks`
+[08Jul2025 00:09:40.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16p8kcl37n389]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:09:51.606] [Server thread/INFO] [Easy NPC/]: Opening menu 214e7665-ca16-4a9a-ab37-fe8e3c51a273 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1278.24, y=100.00, z=-375.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:09:52.017] [Server thread/INFO] [Easy NPC/]: Opening menu f7898583-4793-4fe2-b40c-97d83abc7887 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1278.24, y=100.00, z=-375.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:10:08.051] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[08Jul2025 00:10:12.445] [Server thread/INFO] [Easy NPC/]: Opening menu 89a6b3ca-24cd-41cb-bd10-5c6d6c4ce7a2 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1278.24, y=100.00, z=-375.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:10:33.748] [Server thread/INFO] [Easy NPC/]: Opening menu b85ee0cf-2d1b-4772-b99f-1148de4944ca for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.42, y=100.00, z=-376.09] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:10:36.260] [Server thread/INFO] [Easy NPC/]: Opening menu dc23f15f-92fa-41d7-bfc5-6096a3f8aacc for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.80, y=100.00, z=-375.78] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Cocinero]}]
+[08Jul2025 00:10:40.306] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:10:40.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:10:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CesarDFA27> -1279 100 -371
+[08Jul2025 00:11:02.601] [Server thread/INFO] [Easy NPC/]: Opening menu f8a99454-63fe-4538-8812-75ad5b0bbecc for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.16, y=100.00, z=-374.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:11:04.106] [Server thread/INFO] [Easy NPC/]: Opening menu d972dd4a-19fb-4b61-bad0-882969013b50 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.16, y=100.00, z=-374.89] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Cocinero]}]
+[08Jul2025 00:11:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CesarDFA27> -1279 100 -371
+[08Jul2025 00:11:14.100] [Server thread/INFO] [Easy NPC/]: Opening menu 5ef75b0d-d562-48fc-bc7a-d6d2b218da32 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.16, y=100.00, z=-374.89] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:11:17.913] [Server thread/INFO] [Easy NPC/]: Opening menu c812f8cd-a7ea-44b7-b053-8c5d7fe40197 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.16, y=100.00, z=-374.89] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Cocinero]}]
+[08Jul2025 00:11:33.861] [Server thread/INFO] [Easy NPC/]: Opening menu fd7130a0-ca3d-42d7-97d0-5841bd014a01 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.34, y=100.06, z=-371.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Cocinero]}]
+[08Jul2025 00:11:35.413] [Server thread/INFO] [Easy NPC/]: Opening menu d76ed44c-9425-4a05-95ea-2d1bab62d945 for npc 8ffdd641-3a89-4436-83cf-d57f4c86e0db and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1277.34, y=100.06, z=-371.63] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Cocinero]}]
+[08Jul2025 00:12:08.849] [Server thread/INFO] [Easy NPC/]: Opening menu 5f87a17f-ada7-4d54-ad79-d1c7a61b2590 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1268.20, y=122.00, z=-337.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:11.057] [Server thread/INFO] [Easy NPC/]: Opening menu 9bda69f4-cbc0-4451-b37f-83b1c41e58b9 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1268.20, y=122.00, z=-337.54] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:17.749] [Server thread/INFO] [Easy NPC/]: Opening menu ee06ab6e-150e-407d-9284-4e9d985dca0a for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1269.84, y=122.00, z=-336.00] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:18.048] [Server thread/INFO] [Easy NPC/]: Opening menu a32fb45e-4742-4809-9061-68de6900c38e for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1269.84, y=122.00, z=-336.00] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:19.352] [Server thread/INFO] [Easy NPC/]: Opening menu c1b88569-a66e-4930-a021-503f41347a97 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1269.84, y=122.00, z=-336.00] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:23.497] [Server thread/INFO] [Easy NPC/]: Opening menu 5830ae5b-4248-4ced-b94a-a83fbdc0dd3c for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1270.02, y=122.00, z=-336.84] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:26.095] [Server thread/INFO] [Easy NPC/]: Opening menu 3f17fb18-7e90-4b86-8ecf-2cd9a4f8198b for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1270.02, y=122.00, z=-336.84] with ConfigurationMenu.DEFAULT_ROTATION[translation{key='text.easy_npc.config.default_rotation.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:35.059] [Server thread/INFO] [Easy NPC/]: Opening menu fb72e050-ea08-4056-8b4e-5dbfa7ecf255 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1270.06, y=122.00, z=-336.50] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:36.661] [Server thread/INFO] [Easy NPC/]: Opening menu d81f5a4b-d8ed-4f29-8cff-0938f76b7488 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1270.06, y=122.00, z=-336.50] with ConfigurationMenu.DEFAULT_ROTATION[translation{key='text.easy_npc.config.default_rotation.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:44.398] [Server thread/INFO] [Easy NPC/]: Opening menu eeac67c9-2b95-4373-8e02-b3381d943779 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.66] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:45.601] [Server thread/INFO] [Easy NPC/]: Opening menu eef0fe69-c0d6-4b1c-9c99-d8d4e81ad725 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.65] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:47.748] [Server thread/INFO] [Easy NPC/]: Opening menu fadacf74-75a2-419c-8cef-a40fb9374523 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.65] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:12:49.150] [Server thread/INFO] [Easy NPC/]: Opening menu f55bde9c-d708-4a0a-85cc-b5c06078a321 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.65] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[entity.easy_npc.]}]
