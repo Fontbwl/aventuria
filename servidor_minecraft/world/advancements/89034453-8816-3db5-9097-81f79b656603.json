@@ -5089,5 +5089,53 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-07-08 20:09:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

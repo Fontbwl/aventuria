@@ -26,7 +26,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -71,7 +71,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -86,7 +86,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":72.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":72},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -116,7 +116,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":194.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":194},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -131,7 +131,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -146,7 +146,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":172.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":172},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -161,7 +161,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":78.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":78},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -221,7 +221,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":208.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":208},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -236,7 +236,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -251,7 +251,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -266,7 +266,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -326,7 +326,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":82.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":82},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -356,7 +356,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -371,7 +371,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -386,7 +386,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -401,7 +401,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -416,7 +416,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":2.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":2},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -431,7 +431,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":8.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":8},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -446,7 +446,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -476,7 +476,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":80.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":80},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -506,7 +506,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":70.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":70},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -521,7 +521,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -641,7 +641,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":4.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":4},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -656,7 +656,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":74.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":74},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -746,7 +746,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -776,7 +776,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -821,7 +821,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":216},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -851,7 +851,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -866,7 +866,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -896,7 +896,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -926,7 +926,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":4.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":4},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -956,7 +956,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":8.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":8},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -971,7 +971,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -986,7 +986,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1016,7 +1016,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":4.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":4},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1031,7 +1031,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1046,7 +1046,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":2.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":2},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1091,7 +1091,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":10.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":10},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1121,7 +1121,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1136,7 +1136,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1166,7 +1166,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":76.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":76},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1271,7 +1271,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":204.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":204},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1301,7 +1301,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1316,7 +1316,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1331,7 +1331,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":2.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":2},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1346,7 +1346,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":8.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":8},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1406,7 +1406,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":0},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1421,7 +1421,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":200.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":200},
       "genderData": {"Infertile":0,"BreedCooldown":0,"GestationTimer":0,"Female":1,"TotalOffsprings":0,"Foals":[],"InLoveTimer":0,"Pregnant":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
@@ -1496,7 +1496,7 @@
       },
       "isDead": false,
       "inventoryData": {"Inventory":[{"Slot":0,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":1,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":2,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":3,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":4,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":5,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":6,"Item":{"Count":0,"id":"minecraft:air"}},{"Slot":7,"Item":{"Count":0,"id":"minecraft:air"}}]},
-      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0.0,"HealthLevel":0,"SpeedXP":0.0,"AffinityLevel":0,"JumpXP":0.0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6.0},
+      "progressionData": {"currentSwipes":0,"daysSwiped":[0,0,0,0,0],"JumpLevel":0,"AffinityXP":0,"HealthLevel":0,"SpeedXP":0,"AffinityLevel":0,"JumpXP":0,"SpeedLevel":0,"desensiztingItem":{"Count":0,"id":"minecraft:air"},"HealthXP":6},
       "genderData": {"Infertile":0,"BreedCooldown":0,"Female":0,"TotalOffsprings":0,"InLoveTimer":0},
       "lineageData": {"Data":{"Offsprings":[]}}
     },
