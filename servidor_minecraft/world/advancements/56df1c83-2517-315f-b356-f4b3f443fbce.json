@@ -440,6 +440,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-07-08 00:28:52 +0000",
       "prairie": "2025-07-02 23:33:19 +0000"
     },
     "done": false

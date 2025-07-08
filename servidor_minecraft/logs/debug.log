@@ -10379,3 +10379,880 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:legion
 [08Jul2025 00:12:45.601] [Server thread/INFO] [Easy NPC/]: Opening menu eef0fe69-c0d6-4b1c-9c99-d8d4e81ad725 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.65] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[entity.easy_npc.]}]
 [08Jul2025 00:12:47.748] [Server thread/INFO] [Easy NPC/]: Opening menu fadacf74-75a2-419c-8cef-a40fb9374523 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.65] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
 [08Jul2025 00:12:49.150] [Server thread/INFO] [Easy NPC/]: Opening menu f55bde9c-d708-4a0a-85cc-b5c06078a321 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1267.50, y=122.00, z=-338.65] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:13:01.496] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:13:01.699] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:13:01.898] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:14:20.099] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 00:14:20.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:14:20.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:16:48.696] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:49.048] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:49.153] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:49.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:49.506] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:49.749] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:49.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.003] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.154] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.350] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.497] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.744] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:50.856] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:16:51.096] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:18:29.450] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:18:29.652] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:18:57.502] [Server thread/INFO] [Easy NPC/]: Opening menu 8cfe7eaf-2a25-4523-9c03-1797a38bddc3 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1268.97, y=122.00, z=-338.39] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:18:58.853] [Server thread/INFO] [Easy NPC/]: Opening menu 7ac9260b-fa40-4bd7-b632-83f336aee1a3 for npc b66482b1-7b7b-4ab7-b97e-c8855cc4adfa and player ServerPlayer['CesarDFA27'/9323, l='ServerLevel[world]', x=-1268.97, y=122.00, z=-338.39] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[entity.easy_npc.]}]
+[08Jul2025 00:19:20.101] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 00:19:20.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:19:20.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:19:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CesarDFA27: Set the weather to clear]
+[08Jul2025 00:20:06.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dymff0f2ym02]: started parsing
+[08Jul2025 00:20:06.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dymff0f2ym02]: Consuming argument ``
+[08Jul2025 00:20:32.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vbmhothwqsqi]: started parsing
+[08Jul2025 00:20:32.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vbmhothwqsqi]: Consuming argument `biomesoplenty:`
+[08Jul2025 00:20:32.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11hq0f5sjl0e6]: started parsing
+[08Jul2025 00:20:32.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11hq0f5sjl0e6]: Consuming argument `biomesoplenty:`
+[08Jul2025 00:20:33.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1odn252fo0vpt]: started parsing
+[08Jul2025 00:20:33.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1odn252fo0vpt]: Consuming argument `biomesoplenty:t`
+[08Jul2025 00:20:33.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ikxfk4w7fob]: started parsing
+[08Jul2025 00:20:33.709] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ikxfk4w7fob]: Consuming argument `biomesoplenty:tr`
+[08Jul2025 00:20:34.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ogb2f872smzq]: started parsing
+[08Jul2025 00:20:34.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ogb2f872smzq]: Consuming argument `biomesoplenty:tre`
+[08Jul2025 00:20:35.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmvbuhpcvn4v]: started parsing
+[08Jul2025 00:20:35.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmvbuhpcvn4v]: Consuming argument `biomesoplenty:tr`
+[08Jul2025 00:20:35.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01ln4kq9gt69k]: started parsing
+[08Jul2025 00:20:35.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01ln4kq9gt69k]: Consuming argument `biomesoplenty:t`
+[08Jul2025 00:20:35.669] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08uk2tj94dhbr]: started parsing
+[08Jul2025 00:20:35.669] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08uk2tj94dhbr]: Consuming argument `biomesoplenty:`
+[08Jul2025 00:20:35.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1utea7gt190ra]: started parsing
+[08Jul2025 00:20:35.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1utea7gt190ra]: Consuming argument `biomesoplenty`
+[08Jul2025 00:20:35.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01j1qcwovnhn0]: started parsing
+[08Jul2025 00:20:35.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01j1qcwovnhn0]: Consuming argument `biomesoplent`
+[08Jul2025 00:20:35.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7523r3017on]: started parsing
+[08Jul2025 00:20:35.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b7523r3017on]: Consuming argument `biomesoplen`
+[08Jul2025 00:20:35.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g11rqfpjbhug]: started parsing
+[08Jul2025 00:20:35.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g11rqfpjbhug]: Consuming argument `biomesople`
+[08Jul2025 00:20:35.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b70j3wa4q2z8]: started parsing
+[08Jul2025 00:20:35.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b70j3wa4q2z8]: Consuming argument `biomesopl`
+[08Jul2025 00:20:35.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17lobi4u9mj84]: started parsing
+[08Jul2025 00:20:35.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17lobi4u9mj84]: Consuming argument `biomesop`
+[08Jul2025 00:20:35.895] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ambpgaibiyjr]: started parsing
+[08Jul2025 00:20:35.895] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ambpgaibiyjr]: Consuming argument `biomeso`
+[08Jul2025 00:20:35.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [021tnbcowc5h4]: started parsing
+[08Jul2025 00:20:35.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [021tnbcowc5h4]: Consuming argument `biomes`
+[08Jul2025 00:20:35.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09t7wtgza65av]: started parsing
+[08Jul2025 00:20:35.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09t7wtgza65av]: Consuming argument `biome`
+[08Jul2025 00:20:35.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19rfc80b7f7bg]: started parsing
+[08Jul2025 00:20:35.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19rfc80b7f7bg]: Consuming argument `biom`
+[08Jul2025 00:20:36.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13n1fvp0lguvm]: started parsing
+[08Jul2025 00:20:36.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13n1fvp0lguvm]: Consuming argument `bio`
+[08Jul2025 00:20:36.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d5fso1vauut2]: started parsing
+[08Jul2025 00:20:36.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d5fso1vauut2]: Consuming argument `bi`
+[08Jul2025 00:20:36.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k9jejmcjjqba]: started parsing
+[08Jul2025 00:20:36.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k9jejmcjjqba]: Consuming argument `b`
+[08Jul2025 00:20:36.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0elg9gkukghz9]: started parsing
+[08Jul2025 00:20:36.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0elg9gkukghz9]: Consuming argument ``
+[08Jul2025 00:20:38.970] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcmbdmnv3f09]: started parsing
+[08Jul2025 00:20:38.970] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcmbdmnv3f09]: Consuming argument ``
+[08Jul2025 00:20:41.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zxrl3ndg3iu7]: started parsing
+[08Jul2025 00:20:41.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zxrl3ndg3iu7]: Consuming argument `apply`
+[08Jul2025 00:20:41.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zxrl3ndg3iu7]: Consuming argument ``
+[08Jul2025 00:20:43.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4ghq2m517dx]: started parsing
+[08Jul2025 00:20:43.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4ghq2m517dx]: Consuming argument `apply`
+[08Jul2025 00:20:43.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4ghq2m517dx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:20:43.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egdim7xyl9rn]: started parsing
+[08Jul2025 00:20:43.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egdim7xyl9rn]: Consuming argument `appl`
+[08Jul2025 00:20:43.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s9govrvf9y8b]: started parsing
+[08Jul2025 00:20:43.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s9govrvf9y8b]: Consuming argument `app`
+[08Jul2025 00:20:43.617] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17kfh6sty6et5]: started parsing
+[08Jul2025 00:20:43.617] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17kfh6sty6et5]: Consuming argument `ap`
+[08Jul2025 00:20:43.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lqxobaevkt1g]: started parsing
+[08Jul2025 00:20:43.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lqxobaevkt1g]: Consuming argument `a`
+[08Jul2025 00:20:44.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gswrl2drzq6w]: started parsing
+[08Jul2025 00:20:44.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gswrl2drzq6w]: Consuming argument ``
+[08Jul2025 00:20:46.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0swmnf116hygq]: started parsing
+[08Jul2025 00:20:46.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0swmnf116hygq]: Consuming argument `forest`
+[08Jul2025 00:20:46.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0swmnf116hygq]: Consuming argument ``
+[08Jul2025 00:20:48.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtxeetd3vspc]: started parsing
+[08Jul2025 00:20:48.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtxeetd3vspc]: Consuming argument `forest`
+[08Jul2025 00:20:48.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtxeetd3vspc]: Consuming argument `sphere`
+[08Jul2025 00:20:48.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtxeetd3vspc]: Consuming argument ``
+[08Jul2025 00:20:58.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0ew5mxztj4u]: started parsing
+[08Jul2025 00:20:58.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0ew5mxztj4u]: Consuming argument `forest`
+[08Jul2025 00:20:58.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0ew5mxztj4u]: Consuming argument `sphere`
+[08Jul2025 00:20:58.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0ew5mxztj4u]: Consuming argument `pine`
+[08Jul2025 00:20:58.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0ew5mxztj4u]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xwj5q16qo9mx]: started parsing
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xwj5q16qo9mx]: Consuming argument `forest`
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xwj5q16qo9mx]: Consuming argument `sphere`
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xwj5q16qo9mx]: Consuming argument `pine`
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xwj5q16qo9mx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mu81z1vfj7bu]: started parsing
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mu81z1vfj7bu]: Consuming argument `forest`
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mu81z1vfj7bu]: Consuming argument `sphere`
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mu81z1vfj7bu]: Consuming argument `pine`
+[08Jul2025 00:21:19.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mu81z1vfj7bu]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:22.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pthzyrpz0n2d]: started parsing
+[08Jul2025 00:21:22.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pthzyrpz0n2d]: Consuming argument ``
+[08Jul2025 00:21:22.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pthzyrpz0n2d]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:23.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0we72p5vqir4n]: started parsing
+[08Jul2025 00:21:23.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0we72p5vqir4n]: Consuming argument `5`
+[08Jul2025 00:21:23.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0we72p5vqir4n]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:23.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06mufj4djs0rp]: started parsing
+[08Jul2025 00:21:23.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06mufj4djs0rp]: Consuming argument `5`
+[08Jul2025 00:21:23.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06mufj4djs0rp]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:27.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zr28zflkerf7]: started parsing
+[08Jul2025 00:21:27.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zr28zflkerf7]: Consuming argument `5`
+[08Jul2025 00:21:27.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zr28zflkerf7]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:27.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e610c9uhm1cv]: started parsing
+[08Jul2025 00:21:27.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e610c9uhm1cv]: Consuming argument `5`
+[08Jul2025 00:21:27.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e610c9uhm1cv]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:27.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw00ba1mmyij]: started parsing
+[08Jul2025 00:21:27.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw00ba1mmyij]: Consuming argument ``
+[08Jul2025 00:21:27.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw00ba1mmyij]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:27.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nk05ygar9fzp]: started parsing
+[08Jul2025 00:21:27.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nk05ygar9fzp]: Consuming argument `2`
+[08Jul2025 00:21:27.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nk05ygar9fzp]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:28.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j693kapbw8c0]: started parsing
+[08Jul2025 00:21:28.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j693kapbw8c0]: Consuming argument `2`
+[08Jul2025 00:21:28.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j693kapbw8c0]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:30.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h009nj8pnz9c]: started parsing
+[08Jul2025 00:21:30.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h009nj8pnz9c]: Consuming argument `2`
+[08Jul2025 00:21:30.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h009nj8pnz9c]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:30.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16dclgcmbfkf7]: started parsing
+[08Jul2025 00:21:30.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16dclgcmbfkf7]: Consuming argument `2`
+[08Jul2025 00:21:30.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16dclgcmbfkf7]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:30.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [178kqtbub40z4]: started parsing
+[08Jul2025 00:21:30.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [178kqtbub40z4]: Consuming argument `5`
+[08Jul2025 00:21:30.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [178kqtbub40z4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:30.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbpsusd4xh5y]: started parsing
+[08Jul2025 00:21:30.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbpsusd4xh5y]: Consuming argument `5`
+[08Jul2025 00:21:30.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbpsusd4xh5y]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:31.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1grsco0r8cui4]: started parsing
+[08Jul2025 00:21:31.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1grsco0r8cui4]: Consuming argument `forest`
+[08Jul2025 00:21:31.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1grsco0r8cui4]: Consuming argument `sphere`
+[08Jul2025 00:21:31.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1grsco0r8cui4]: Consuming argument `pine`
+[08Jul2025 00:21:31.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1grsco0r8cui4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:31.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tm3q1tl7gji]: started parsing
+[08Jul2025 00:21:31.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tm3q1tl7gji]: Consuming argument `forest`
+[08Jul2025 00:21:31.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tm3q1tl7gji]: Consuming argument `sphere`
+[08Jul2025 00:21:31.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tm3q1tl7gji]: Consuming argument `pine`
+[08Jul2025 00:21:31.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tm3q1tl7gji]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:31.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmhmqti409xr]: started parsing
+[08Jul2025 00:21:31.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmhmqti409xr]: Consuming argument `forest`
+[08Jul2025 00:21:31.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmhmqti409xr]: Consuming argument `sphere`
+[08Jul2025 00:21:31.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmhmqti409xr]: Consuming argument `pin`
+[08Jul2025 00:21:31.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m3bpn5pcaouq]: started parsing
+[08Jul2025 00:21:31.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m3bpn5pcaouq]: Consuming argument `forest`
+[08Jul2025 00:21:31.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m3bpn5pcaouq]: Consuming argument `sphere`
+[08Jul2025 00:21:31.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m3bpn5pcaouq]: Consuming argument `pi`
+[08Jul2025 00:21:32.117] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tne5hi10rqz]: started parsing
+[08Jul2025 00:21:32.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tne5hi10rqz]: Consuming argument `forest`
+[08Jul2025 00:21:32.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tne5hi10rqz]: Consuming argument `sphere`
+[08Jul2025 00:21:32.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tne5hi10rqz]: Consuming argument `p`
+[08Jul2025 00:21:32.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3pui5da6k7n]: started parsing
+[08Jul2025 00:21:32.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3pui5da6k7n]: Consuming argument `forest`
+[08Jul2025 00:21:32.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3pui5da6k7n]: Consuming argument `sphere`
+[08Jul2025 00:21:32.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3pui5da6k7n]: Consuming argument ``
+[08Jul2025 00:21:32.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0z2brsd247e]: started parsing
+[08Jul2025 00:21:32.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0z2brsd247e]: Consuming argument `forest`
+[08Jul2025 00:21:32.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0z2brsd247e]: Consuming argument `sphere`
+[08Jul2025 00:21:32.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0z2brsd247e]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:33.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qq5ce7tu1mqh]: started parsing
+[08Jul2025 00:21:33.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qq5ce7tu1mqh]: Consuming argument `forest`
+[08Jul2025 00:21:33.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qq5ce7tu1mqh]: Consuming argument `spher`
+[08Jul2025 00:21:33.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c58kiiyu7mqz]: started parsing
+[08Jul2025 00:21:33.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c58kiiyu7mqz]: Consuming argument `forest`
+[08Jul2025 00:21:33.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c58kiiyu7mqz]: Consuming argument `sphe`
+[08Jul2025 00:21:33.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu29v2m9pjdp]: started parsing
+[08Jul2025 00:21:33.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu29v2m9pjdp]: Consuming argument `forest`
+[08Jul2025 00:21:33.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu29v2m9pjdp]: Consuming argument `sph`
+[08Jul2025 00:21:33.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nd0ah2h8r37g]: started parsing
+[08Jul2025 00:21:33.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nd0ah2h8r37g]: Consuming argument `forest`
+[08Jul2025 00:21:33.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nd0ah2h8r37g]: Consuming argument `sp`
+[08Jul2025 00:21:33.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1insczaoxztw1]: started parsing
+[08Jul2025 00:21:33.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1insczaoxztw1]: Consuming argument `forest`
+[08Jul2025 00:21:33.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1insczaoxztw1]: Consuming argument `s`
+[08Jul2025 00:21:34.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzyeraoeaqx6]: started parsing
+[08Jul2025 00:21:34.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzyeraoeaqx6]: Consuming argument `forest`
+[08Jul2025 00:21:34.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzyeraoeaqx6]: Consuming argument ``
+[08Jul2025 00:21:40.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjawebefp1pp]: started parsing
+[08Jul2025 00:21:40.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjawebefp1pp]: Consuming argument `forest`
+[08Jul2025 00:21:40.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjawebefp1pp]: Consuming argument `cyl`
+[08Jul2025 00:21:40.645] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjawebefp1pp]: Consuming argument ``
+[08Jul2025 00:21:49.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nevmyc29e6kd]: started parsing
+[08Jul2025 00:21:49.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nevmyc29e6kd]: Consuming argument `forest`
+[08Jul2025 00:21:49.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nevmyc29e6kd]: Consuming argument `cyl`
+[08Jul2025 00:21:49.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nevmyc29e6kd]: Consuming argument `randbirc`
+[08Jul2025 00:21:49.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b0oirrvo3rw6]: started parsing
+[08Jul2025 00:21:49.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b0oirrvo3rw6]: Consuming argument `forest`
+[08Jul2025 00:21:49.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b0oirrvo3rw6]: Consuming argument `cyl`
+[08Jul2025 00:21:49.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b0oirrvo3rw6]: Consuming argument `randbir`
+[08Jul2025 00:21:49.416] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rf6hjcc0y1yt]: started parsing
+[08Jul2025 00:21:49.416] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rf6hjcc0y1yt]: Consuming argument `forest`
+[08Jul2025 00:21:49.416] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rf6hjcc0y1yt]: Consuming argument `cyl`
+[08Jul2025 00:21:49.416] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rf6hjcc0y1yt]: Consuming argument `randbi`
+[08Jul2025 00:21:49.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia3q3d03ve2y]: started parsing
+[08Jul2025 00:21:49.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia3q3d03ve2y]: Consuming argument `forest`
+[08Jul2025 00:21:49.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia3q3d03ve2y]: Consuming argument `cyl`
+[08Jul2025 00:21:49.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia3q3d03ve2y]: Consuming argument `randb`
+[08Jul2025 00:21:49.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01wp69l2xgdfh]: started parsing
+[08Jul2025 00:21:49.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01wp69l2xgdfh]: Consuming argument `forest`
+[08Jul2025 00:21:49.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01wp69l2xgdfh]: Consuming argument `cyl`
+[08Jul2025 00:21:49.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01wp69l2xgdfh]: Consuming argument `rand`
+[08Jul2025 00:21:49.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01wp69l2xgdfh]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:49.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmpwvbkj7j1b]: started parsing
+[08Jul2025 00:21:49.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmpwvbkj7j1b]: Consuming argument `forest`
+[08Jul2025 00:21:49.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmpwvbkj7j1b]: Consuming argument `cyl`
+[08Jul2025 00:21:49.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmpwvbkj7j1b]: Consuming argument `ran`
+[08Jul2025 00:21:50.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ummmewr09yex]: started parsing
+[08Jul2025 00:21:50.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ummmewr09yex]: Consuming argument `forest`
+[08Jul2025 00:21:50.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ummmewr09yex]: Consuming argument `cyl`
+[08Jul2025 00:21:50.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ummmewr09yex]: Consuming argument `ra`
+[08Jul2025 00:21:50.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yps3f1nr7mou]: started parsing
+[08Jul2025 00:21:50.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yps3f1nr7mou]: Consuming argument `forest`
+[08Jul2025 00:21:50.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yps3f1nr7mou]: Consuming argument `cyl`
+[08Jul2025 00:21:50.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yps3f1nr7mou]: Consuming argument `r`
+[08Jul2025 00:21:50.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qfveb62676jp]: started parsing
+[08Jul2025 00:21:50.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qfveb62676jp]: Consuming argument `forest`
+[08Jul2025 00:21:50.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qfveb62676jp]: Consuming argument `cyl`
+[08Jul2025 00:21:50.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qfveb62676jp]: Consuming argument ``
+[08Jul2025 00:21:50.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10i4l8nhewusk]: started parsing
+[08Jul2025 00:21:50.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10i4l8nhewusk]: Consuming argument `forest`
+[08Jul2025 00:21:50.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10i4l8nhewusk]: Consuming argument `cyl`
+[08Jul2025 00:21:50.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10i4l8nhewusk]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:50.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vbljsmmvpwo]: started parsing
+[08Jul2025 00:21:50.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vbljsmmvpwo]: Consuming argument `forest`
+[08Jul2025 00:21:50.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vbljsmmvpwo]: Consuming argument `cy`
+[08Jul2025 00:21:50.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dg6emvsy0m7q]: started parsing
+[08Jul2025 00:21:50.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dg6emvsy0m7q]: Consuming argument `forest`
+[08Jul2025 00:21:50.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dg6emvsy0m7q]: Consuming argument `c`
+[08Jul2025 00:21:50.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091av34w6ct38]: started parsing
+[08Jul2025 00:21:50.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091av34w6ct38]: Consuming argument `forest`
+[08Jul2025 00:21:50.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091av34w6ct38]: Consuming argument ``
+[08Jul2025 00:21:50.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hn1tlzm77r4u]: started parsing
+[08Jul2025 00:21:50.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hn1tlzm77r4u]: Consuming argument `forest`
+[08Jul2025 00:21:50.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hn1tlzm77r4u]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:51.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05n2gvf41ub34]: started parsing
+[08Jul2025 00:21:51.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05n2gvf41ub34]: Consuming argument `forest`
+[08Jul2025 00:21:51.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05n2gvf41ub34]: Consuming argument ``
+[08Jul2025 00:21:52.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdlb9fjelftk]: started parsing
+[08Jul2025 00:21:52.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdlb9fjelftk]: Consuming argument `forest`
+[08Jul2025 00:21:52.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdlb9fjelftk]: Consuming argument `cuboid`
+[08Jul2025 00:21:52.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdlb9fjelftk]: Consuming argument ``
+[08Jul2025 00:21:54.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o3t2565kt2tu]: started parsing
+[08Jul2025 00:21:54.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o3t2565kt2tu]: Consuming argument `forest`
+[08Jul2025 00:21:54.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o3t2565kt2tu]: Consuming argument `cuboid`
+[08Jul2025 00:21:54.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o3t2565kt2tu]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:21:54.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnz715f932ly]: started parsing
+[08Jul2025 00:21:54.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnz715f932ly]: Consuming argument `forest`
+[08Jul2025 00:21:54.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnz715f932ly]: Consuming argument `cuboi`
+[08Jul2025 00:21:54.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jsssxcjp5tk]: started parsing
+[08Jul2025 00:21:54.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jsssxcjp5tk]: Consuming argument `forest`
+[08Jul2025 00:21:54.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jsssxcjp5tk]: Consuming argument `cubo`
+[08Jul2025 00:21:54.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u09658xbmroo]: started parsing
+[08Jul2025 00:21:54.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u09658xbmroo]: Consuming argument `forest`
+[08Jul2025 00:21:54.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u09658xbmroo]: Consuming argument `cub`
+[08Jul2025 00:21:54.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ft1petk3yr6z]: started parsing
+[08Jul2025 00:21:54.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ft1petk3yr6z]: Consuming argument `forest`
+[08Jul2025 00:21:54.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ft1petk3yr6z]: Consuming argument `cu`
+[08Jul2025 00:21:55.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k1e0zf5sfrs]: started parsing
+[08Jul2025 00:21:55.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k1e0zf5sfrs]: Consuming argument `forest`
+[08Jul2025 00:21:55.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18k1e0zf5sfrs]: Consuming argument `c`
+[08Jul2025 00:21:55.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05o0efoy09mhl]: started parsing
+[08Jul2025 00:21:55.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05o0efoy09mhl]: Consuming argument `forest`
+[08Jul2025 00:21:55.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05o0efoy09mhl]: Consuming argument ``
+[08Jul2025 00:21:56.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09kih8llm1k8i]: started parsing
+[08Jul2025 00:21:56.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09kih8llm1k8i]: Consuming argument `forest`
+[08Jul2025 00:21:56.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09kih8llm1k8i]: Consuming argument `cyl`
+[08Jul2025 00:21:56.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09kih8llm1k8i]: Consuming argument ``
+[08Jul2025 00:22:02.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1i7ncsskexj]: started parsing
+[08Jul2025 00:22:02.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1i7ncsskexj]: Consuming argument `forest`
+[08Jul2025 00:22:02.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1i7ncsskexj]: Consuming argument `cyl`
+[08Jul2025 00:22:02.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1i7ncsskexj]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:02.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1i7ncsskexj]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:12.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f77pmtz2ldm]: started parsing
+[08Jul2025 00:22:12.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f77pmtz2ldm]: Consuming argument `forest`
+[08Jul2025 00:22:12.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f77pmtz2ldm]: Consuming argument `cyl`
+[08Jul2025 00:22:12.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f77pmtz2ldm]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:12.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f77pmtz2ldm]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:12.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ieubvzvv2muz]: started parsing
+[08Jul2025 00:22:12.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ieubvzvv2muz]: Consuming argument `forest`
+[08Jul2025 00:22:12.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ieubvzvv2muz]: Consuming argument `cyl`
+[08Jul2025 00:22:12.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ieubvzvv2muz]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:12.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ieubvzvv2muz]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:13.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5vdne5khmiy]: started parsing
+[08Jul2025 00:22:13.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5vdne5khmiy]: Consuming argument `forest`
+[08Jul2025 00:22:13.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5vdne5khmiy]: Consuming argument `cyl`
+[08Jul2025 00:22:13.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d5vdne5khmiy]: Consuming argument `crimsonfungu`
+[08Jul2025 00:22:13.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ja7tdn3yk8v]: started parsing
+[08Jul2025 00:22:13.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ja7tdn3yk8v]: Consuming argument `forest`
+[08Jul2025 00:22:13.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ja7tdn3yk8v]: Consuming argument `cyl`
+[08Jul2025 00:22:13.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ja7tdn3yk8v]: Consuming argument `crimsonfung`
+[08Jul2025 00:22:13.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sfr8k9n7gtd2]: started parsing
+[08Jul2025 00:22:13.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sfr8k9n7gtd2]: Consuming argument `forest`
+[08Jul2025 00:22:13.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sfr8k9n7gtd2]: Consuming argument `cyl`
+[08Jul2025 00:22:13.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sfr8k9n7gtd2]: Consuming argument `crimsonfun`
+[08Jul2025 00:22:13.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sejj8k6phla0]: started parsing
+[08Jul2025 00:22:13.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sejj8k6phla0]: Consuming argument `forest`
+[08Jul2025 00:22:13.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sejj8k6phla0]: Consuming argument `cyl`
+[08Jul2025 00:22:13.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sejj8k6phla0]: Consuming argument `crimsonfu`
+[08Jul2025 00:22:13.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01vz7swufk0st]: started parsing
+[08Jul2025 00:22:13.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01vz7swufk0st]: Consuming argument `forest`
+[08Jul2025 00:22:13.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01vz7swufk0st]: Consuming argument `cyl`
+[08Jul2025 00:22:13.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01vz7swufk0st]: Consuming argument `crimsonf`
+[08Jul2025 00:22:13.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ta06v08mn76v]: started parsing
+[08Jul2025 00:22:13.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ta06v08mn76v]: Consuming argument `forest`
+[08Jul2025 00:22:13.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ta06v08mn76v]: Consuming argument `cyl`
+[08Jul2025 00:22:13.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ta06v08mn76v]: Consuming argument `crimson`
+[08Jul2025 00:22:13.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gptxspy1rnk8]: started parsing
+[08Jul2025 00:22:13.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gptxspy1rnk8]: Consuming argument `forest`
+[08Jul2025 00:22:13.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gptxspy1rnk8]: Consuming argument `cyl`
+[08Jul2025 00:22:13.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gptxspy1rnk8]: Consuming argument `crimso`
+[08Jul2025 00:22:13.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jdcjofckzoc9]: started parsing
+[08Jul2025 00:22:13.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jdcjofckzoc9]: Consuming argument `forest`
+[08Jul2025 00:22:13.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jdcjofckzoc9]: Consuming argument `cyl`
+[08Jul2025 00:22:13.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jdcjofckzoc9]: Consuming argument `crims`
+[08Jul2025 00:22:13.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ol8aii7rnt2]: started parsing
+[08Jul2025 00:22:13.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ol8aii7rnt2]: Consuming argument `forest`
+[08Jul2025 00:22:13.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ol8aii7rnt2]: Consuming argument `cyl`
+[08Jul2025 00:22:13.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ol8aii7rnt2]: Consuming argument `crim`
+[08Jul2025 00:22:13.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qv4wbpu1ju2u]: started parsing
+[08Jul2025 00:22:13.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qv4wbpu1ju2u]: Consuming argument `forest`
+[08Jul2025 00:22:13.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qv4wbpu1ju2u]: Consuming argument `cyl`
+[08Jul2025 00:22:13.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qv4wbpu1ju2u]: Consuming argument `cri`
+[08Jul2025 00:22:13.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rd9memsos79q]: started parsing
+[08Jul2025 00:22:13.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rd9memsos79q]: Consuming argument `forest`
+[08Jul2025 00:22:13.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rd9memsos79q]: Consuming argument `cyl`
+[08Jul2025 00:22:13.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rd9memsos79q]: Consuming argument `cr`
+[08Jul2025 00:22:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pomhjyjd3hgr]: started parsing
+[08Jul2025 00:22:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pomhjyjd3hgr]: Consuming argument `forest`
+[08Jul2025 00:22:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pomhjyjd3hgr]: Consuming argument `cyl`
+[08Jul2025 00:22:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pomhjyjd3hgr]: Consuming argument `c`
+[08Jul2025 00:22:13.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z0512l0x8wt]: started parsing
+[08Jul2025 00:22:13.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z0512l0x8wt]: Consuming argument `forest`
+[08Jul2025 00:22:13.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z0512l0x8wt]: Consuming argument `cyl`
+[08Jul2025 00:22:13.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z0512l0x8wt]: Consuming argument ``
+[08Jul2025 00:22:14.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07g4h8flbqz5o]: started parsing
+[08Jul2025 00:22:14.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07g4h8flbqz5o]: Consuming argument `forest`
+[08Jul2025 00:22:14.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07g4h8flbqz5o]: Consuming argument `cyl`
+[08Jul2025 00:22:14.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07g4h8flbqz5o]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:14.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c585wm2046mt]: started parsing
+[08Jul2025 00:22:14.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c585wm2046mt]: Consuming argument `forest`
+[08Jul2025 00:22:14.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c585wm2046mt]: Consuming argument `cy`
+[08Jul2025 00:22:14.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10cx3epy6d9tl]: started parsing
+[08Jul2025 00:22:14.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10cx3epy6d9tl]: Consuming argument `forest`
+[08Jul2025 00:22:14.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10cx3epy6d9tl]: Consuming argument `c`
+[08Jul2025 00:22:15.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15mw426bzln8m]: started parsing
+[08Jul2025 00:22:15.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15mw426bzln8m]: Consuming argument `forest`
+[08Jul2025 00:22:15.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15mw426bzln8m]: Consuming argument ``
+[08Jul2025 00:22:15.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03p6r3fox1lib]: started parsing
+[08Jul2025 00:22:15.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03p6r3fox1lib]: Consuming argument `forest`
+[08Jul2025 00:22:15.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03p6r3fox1lib]: Consuming argument `cuboid`
+[08Jul2025 00:22:15.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03p6r3fox1lib]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:18.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v2e2byqtz1l]: started parsing
+[08Jul2025 00:22:18.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v2e2byqtz1l]: Consuming argument `forest`
+[08Jul2025 00:22:18.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v2e2byqtz1l]: Consuming argument `cuboid`
+[08Jul2025 00:22:18.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16v2e2byqtz1l]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:18.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mytcbnwmfhbw]: started parsing
+[08Jul2025 00:22:18.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mytcbnwmfhbw]: Consuming argument `forest`
+[08Jul2025 00:22:18.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mytcbnwmfhbw]: Consuming argument `cuboid`
+[08Jul2025 00:22:18.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mytcbnwmfhbw]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:19.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0fcumvr2f8h]: started parsing
+[08Jul2025 00:22:19.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0fcumvr2f8h]: Consuming argument `forest`
+[08Jul2025 00:22:19.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0fcumvr2f8h]: Consuming argument `cuboid`
+[08Jul2025 00:22:19.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0fcumvr2f8h]: Consuming argument ``
+[08Jul2025 00:22:21.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0pysbwt1fn7]: started parsing
+[08Jul2025 00:22:21.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0pysbwt1fn7]: Consuming argument `forest`
+[08Jul2025 00:22:21.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0pysbwt1fn7]: Consuming argument `cuboid`
+[08Jul2025 00:22:21.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0pysbwt1fn7]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:21.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0pysbwt1fn7]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t3wgaf4quplv]: started parsing
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t3wgaf4quplv]: Consuming argument `forest`
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t3wgaf4quplv]: Consuming argument `cuboid`
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t3wgaf4quplv]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t3wgaf4quplv]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t46dmvnqh9q7]: started parsing
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t46dmvnqh9q7]: Consuming argument `forest`
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t46dmvnqh9q7]: Consuming argument `cuboid`
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t46dmvnqh9q7]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:25.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t46dmvnqh9q7]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:26.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwwlri4hjx87]: started parsing
+[08Jul2025 00:22:26.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwwlri4hjx87]: Consuming argument `forest`
+[08Jul2025 00:22:26.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwwlri4hjx87]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwwlri4hjx87]: Consuming argument `crimsonfungu`
+[08Jul2025 00:22:26.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaqkiaho4w4c]: started parsing
+[08Jul2025 00:22:26.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaqkiaho4w4c]: Consuming argument `forest`
+[08Jul2025 00:22:26.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaqkiaho4w4c]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaqkiaho4w4c]: Consuming argument `crimsonfung`
+[08Jul2025 00:22:26.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18xv21nsmsq23]: started parsing
+[08Jul2025 00:22:26.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18xv21nsmsq23]: Consuming argument `forest`
+[08Jul2025 00:22:26.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18xv21nsmsq23]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18xv21nsmsq23]: Consuming argument `crimsonfun`
+[08Jul2025 00:22:26.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j630abw8aw7h]: started parsing
+[08Jul2025 00:22:26.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j630abw8aw7h]: Consuming argument `forest`
+[08Jul2025 00:22:26.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j630abw8aw7h]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j630abw8aw7h]: Consuming argument `crimsonfu`
+[08Jul2025 00:22:26.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m3i2hbsokpj]: started parsing
+[08Jul2025 00:22:26.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m3i2hbsokpj]: Consuming argument `forest`
+[08Jul2025 00:22:26.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m3i2hbsokpj]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m3i2hbsokpj]: Consuming argument `crimsonf`
+[08Jul2025 00:22:26.659] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kniniqnfjvks]: started parsing
+[08Jul2025 00:22:26.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kniniqnfjvks]: Consuming argument `forest`
+[08Jul2025 00:22:26.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kniniqnfjvks]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kniniqnfjvks]: Consuming argument `crimson`
+[08Jul2025 00:22:26.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v1wplf9yzwr9]: started parsing
+[08Jul2025 00:22:26.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v1wplf9yzwr9]: Consuming argument `forest`
+[08Jul2025 00:22:26.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v1wplf9yzwr9]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v1wplf9yzwr9]: Consuming argument `crimso`
+[08Jul2025 00:22:26.742] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mehwi8y1po8b]: started parsing
+[08Jul2025 00:22:26.742] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mehwi8y1po8b]: Consuming argument `forest`
+[08Jul2025 00:22:26.742] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mehwi8y1po8b]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mehwi8y1po8b]: Consuming argument `crims`
+[08Jul2025 00:22:26.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k2nmg2lkb4f2]: started parsing
+[08Jul2025 00:22:26.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k2nmg2lkb4f2]: Consuming argument `forest`
+[08Jul2025 00:22:26.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k2nmg2lkb4f2]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k2nmg2lkb4f2]: Consuming argument `crim`
+[08Jul2025 00:22:26.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0al03tsci8o]: started parsing
+[08Jul2025 00:22:26.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0al03tsci8o]: Consuming argument `forest`
+[08Jul2025 00:22:26.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0al03tsci8o]: Consuming argument `cuboid`
+[08Jul2025 00:22:26.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0al03tsci8o]: Consuming argument `cri`
+[08Jul2025 00:22:27.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uo8r7yxy9uex]: started parsing
+[08Jul2025 00:22:27.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uo8r7yxy9uex]: Consuming argument `forest`
+[08Jul2025 00:22:27.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uo8r7yxy9uex]: Consuming argument `cuboid`
+[08Jul2025 00:22:27.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uo8r7yxy9uex]: Consuming argument `cr`
+[08Jul2025 00:22:27.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qodt92ybj4hj]: started parsing
+[08Jul2025 00:22:27.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qodt92ybj4hj]: Consuming argument `forest`
+[08Jul2025 00:22:27.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qodt92ybj4hj]: Consuming argument `cuboid`
+[08Jul2025 00:22:27.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qodt92ybj4hj]: Consuming argument `c`
+[08Jul2025 00:22:27.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgv9epx5w7jh]: started parsing
+[08Jul2025 00:22:27.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgv9epx5w7jh]: Consuming argument `forest`
+[08Jul2025 00:22:27.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgv9epx5w7jh]: Consuming argument `cuboid`
+[08Jul2025 00:22:27.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgv9epx5w7jh]: Consuming argument ``
+[08Jul2025 00:22:27.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tdo7sv4q6qc]: started parsing
+[08Jul2025 00:22:27.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tdo7sv4q6qc]: Consuming argument `forest`
+[08Jul2025 00:22:27.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tdo7sv4q6qc]: Consuming argument `cuboid`
+[08Jul2025 00:22:27.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tdo7sv4q6qc]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:28.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1192sd0aweim1]: started parsing
+[08Jul2025 00:22:28.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1192sd0aweim1]: Consuming argument `forest`
+[08Jul2025 00:22:28.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1192sd0aweim1]: Consuming argument `cuboi`
+[08Jul2025 00:22:28.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k9n6cyxwfimg]: started parsing
+[08Jul2025 00:22:28.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k9n6cyxwfimg]: Consuming argument `forest`
+[08Jul2025 00:22:28.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k9n6cyxwfimg]: Consuming argument `cubo`
+[08Jul2025 00:22:28.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gu4l6dm5w4cm]: started parsing
+[08Jul2025 00:22:28.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gu4l6dm5w4cm]: Consuming argument `forest`
+[08Jul2025 00:22:28.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gu4l6dm5w4cm]: Consuming argument `cub`
+[08Jul2025 00:22:28.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04a4jh7j899s7]: started parsing
+[08Jul2025 00:22:28.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04a4jh7j899s7]: Consuming argument `forest`
+[08Jul2025 00:22:28.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04a4jh7j899s7]: Consuming argument `cu`
+[08Jul2025 00:22:28.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1id4lofi3mmru]: started parsing
+[08Jul2025 00:22:28.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1id4lofi3mmru]: Consuming argument `forest`
+[08Jul2025 00:22:28.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1id4lofi3mmru]: Consuming argument `c`
+[08Jul2025 00:22:28.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ulwb6e91noaq]: started parsing
+[08Jul2025 00:22:28.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ulwb6e91noaq]: Consuming argument `forest`
+[08Jul2025 00:22:28.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ulwb6e91noaq]: Consuming argument ``
+[08Jul2025 00:22:30.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d96xz662vxu0]: started parsing
+[08Jul2025 00:22:30.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d96xz662vxu0]: Consuming argument `forest`
+[08Jul2025 00:22:30.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d96xz662vxu0]: Consuming argument `sphere`
+[08Jul2025 00:22:30.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d96xz662vxu0]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:30.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d96xz662vxu0]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:35.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b03c1ooyz7ag]: started parsing
+[08Jul2025 00:22:35.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b03c1ooyz7ag]: Consuming argument `forest`
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b03c1ooyz7ag]: Consuming argument `sphere`
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b03c1ooyz7ag]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b03c1ooyz7ag]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116omaagx9yen]: started parsing
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116omaagx9yen]: Consuming argument `forest`
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116omaagx9yen]: Consuming argument `sphere`
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116omaagx9yen]: Consuming argument `crimsonfungus`
+[08Jul2025 00:22:35.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116omaagx9yen]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:22:36.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lb58fc9jhyz9]: started parsing
+[08Jul2025 00:22:36.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lb58fc9jhyz9]: Consuming argument `forest`
+[08Jul2025 00:22:36.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lb58fc9jhyz9]: Consuming argument `sphere`
+[08Jul2025 00:22:36.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lb58fc9jhyz9]: Consuming argument `crimsonfungu`
+[08Jul2025 00:22:37.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19iizzgz6yvzr]: started parsing
+[08Jul2025 00:22:37.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19iizzgz6yvzr]: Consuming argument `forest`
+[08Jul2025 00:22:37.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19iizzgz6yvzr]: Consuming argument `sphere`
+[08Jul2025 00:22:37.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19iizzgz6yvzr]: Consuming argument `crimsonfung`
+[08Jul2025 00:22:37.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03i7fvly15va3]: started parsing
+[08Jul2025 00:22:37.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03i7fvly15va3]: Consuming argument `forest`
+[08Jul2025 00:22:37.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03i7fvly15va3]: Consuming argument `sphere`
+[08Jul2025 00:22:37.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03i7fvly15va3]: Consuming argument `crimsonfun`
+[08Jul2025 00:22:37.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19hnvdrwdvsre]: started parsing
+[08Jul2025 00:22:37.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19hnvdrwdvsre]: Consuming argument `forest`
+[08Jul2025 00:22:37.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19hnvdrwdvsre]: Consuming argument `sphere`
+[08Jul2025 00:22:37.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19hnvdrwdvsre]: Consuming argument `crimsonfu`
+[08Jul2025 00:22:37.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lhktlc89024p]: started parsing
+[08Jul2025 00:22:37.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lhktlc89024p]: Consuming argument `forest`
+[08Jul2025 00:22:37.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lhktlc89024p]: Consuming argument `sphere`
+[08Jul2025 00:22:37.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lhktlc89024p]: Consuming argument `crimsonf`
+[08Jul2025 00:22:37.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1od44yl52vqhb]: started parsing
+[08Jul2025 00:22:37.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1od44yl52vqhb]: Consuming argument `forest`
+[08Jul2025 00:22:37.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1od44yl52vqhb]: Consuming argument `sphere`
+[08Jul2025 00:22:37.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1od44yl52vqhb]: Consuming argument `crimson`
+[08Jul2025 00:22:37.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dz7ndaazi3se]: started parsing
+[08Jul2025 00:22:37.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dz7ndaazi3se]: Consuming argument `forest`
+[08Jul2025 00:22:37.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dz7ndaazi3se]: Consuming argument `sphere`
+[08Jul2025 00:22:37.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dz7ndaazi3se]: Consuming argument `crimso`
+[08Jul2025 00:22:37.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5g1ym0mogxd]: started parsing
+[08Jul2025 00:22:37.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5g1ym0mogxd]: Consuming argument `forest`
+[08Jul2025 00:22:37.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5g1ym0mogxd]: Consuming argument `sphere`
+[08Jul2025 00:22:37.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5g1ym0mogxd]: Consuming argument `crims`
+[08Jul2025 00:22:37.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h1npnggpx11]: started parsing
+[08Jul2025 00:22:37.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h1npnggpx11]: Consuming argument `forest`
+[08Jul2025 00:22:37.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h1npnggpx11]: Consuming argument `sphere`
+[08Jul2025 00:22:37.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h1npnggpx11]: Consuming argument `crim`
+[08Jul2025 00:22:37.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgggsykpusup]: started parsing
+[08Jul2025 00:22:37.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgggsykpusup]: Consuming argument `forest`
+[08Jul2025 00:22:37.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgggsykpusup]: Consuming argument `sphere`
+[08Jul2025 00:22:37.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgggsykpusup]: Consuming argument `cri`
+[08Jul2025 00:22:37.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgsr5ex5pm5e]: started parsing
+[08Jul2025 00:22:37.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgsr5ex5pm5e]: Consuming argument `forest`
+[08Jul2025 00:22:37.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgsr5ex5pm5e]: Consuming argument `sphere`
+[08Jul2025 00:22:37.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgsr5ex5pm5e]: Consuming argument `cr`
+[08Jul2025 00:22:39.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a90lktfx883r]: started parsing
+[08Jul2025 00:22:39.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a90lktfx883r]: Consuming argument `forest`
+[08Jul2025 00:22:39.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a90lktfx883r]: Consuming argument `sphere`
+[08Jul2025 00:22:39.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a90lktfx883r]: Consuming argument `c`
+[08Jul2025 00:22:39.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iaozk85cl0e2]: started parsing
+[08Jul2025 00:22:39.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iaozk85cl0e2]: Consuming argument `forest`
+[08Jul2025 00:22:39.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iaozk85cl0e2]: Consuming argument `sphere`
+[08Jul2025 00:22:39.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iaozk85cl0e2]: Consuming argument ``
+[08Jul2025 00:22:47.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7ak4a3n8ric]: started parsing
+[08Jul2025 00:22:47.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7ak4a3n8ric]: Consuming argument `forest`
+[08Jul2025 00:22:47.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7ak4a3n8ric]: Consuming argument `sphere`
+[08Jul2025 00:22:47.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7ak4a3n8ric]: Consuming argument `largespruce`
+[08Jul2025 00:22:47.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7ak4a3n8ric]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:22.865] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
+[08Jul2025 00:23:42.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnnngxxt2oad]: started parsing
+[08Jul2025 00:23:42.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnnngxxt2oad]: Consuming argument `forest`
+[08Jul2025 00:23:42.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnnngxxt2oad]: Consuming argument `sphere`
+[08Jul2025 00:23:42.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnnngxxt2oad]: Consuming argument `largespruce`
+[08Jul2025 00:23:42.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnnngxxt2oad]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:42.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yx04udwrrhl]: started parsing
+[08Jul2025 00:23:42.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yx04udwrrhl]: Consuming argument `forest`
+[08Jul2025 00:23:42.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yx04udwrrhl]: Consuming argument `sphere`
+[08Jul2025 00:23:42.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yx04udwrrhl]: Consuming argument `largespruce`
+[08Jul2025 00:23:42.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yx04udwrrhl]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:42.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okr3q12cruf1]: started parsing
+[08Jul2025 00:23:42.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okr3q12cruf1]: Consuming argument `forest`
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okr3q12cruf1]: Consuming argument `sphere`
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okr3q12cruf1]: Consuming argument `crimsonfungus`
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okr3q12cruf1]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qza170ywxr0]: started parsing
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qza170ywxr0]: Consuming argument `forest`
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qza170ywxr0]: Consuming argument `sphere`
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qza170ywxr0]: Consuming argument `crimsonfungus`
+[08Jul2025 00:23:42.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qza170ywxr0]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121hvil2195ru]: started parsing
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121hvil2195ru]: Consuming argument `forest`
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121hvil2195ru]: Consuming argument `cuboid`
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121hvil2195ru]: Consuming argument `crimsonfungus`
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [121hvil2195ru]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08a58avenavtx]: started parsing
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08a58avenavtx]: Consuming argument `forest`
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08a58avenavtx]: Consuming argument `cuboid`
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08a58avenavtx]: Consuming argument `crimsonfungus`
+[08Jul2025 00:23:43.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08a58avenavtx]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:43.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a69u3ay4c71c]: started parsing
+[08Jul2025 00:23:43.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a69u3ay4c71c]: Consuming argument `forest`
+[08Jul2025 00:23:43.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a69u3ay4c71c]: Consuming argument `cuboid`
+[08Jul2025 00:23:43.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a69u3ay4c71c]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:43.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0br8yauk254pq]: started parsing
+[08Jul2025 00:23:43.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0br8yauk254pq]: Consuming argument `forest`
+[08Jul2025 00:23:43.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0br8yauk254pq]: Consuming argument `cuboid`
+[08Jul2025 00:23:43.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0br8yauk254pq]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:44.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118e9hir3szls]: started parsing
+[08Jul2025 00:23:44.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118e9hir3szls]: Consuming argument `forest`
+[08Jul2025 00:23:44.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118e9hir3szls]: Consuming argument `cyl`
+[08Jul2025 00:23:44.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118e9hir3szls]: Consuming argument `crimsonfungus`
+[08Jul2025 00:23:44.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [118e9hir3szls]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:44.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghfbiha7pvye]: started parsing
+[08Jul2025 00:23:44.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghfbiha7pvye]: Consuming argument `forest`
+[08Jul2025 00:23:44.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghfbiha7pvye]: Consuming argument `cyl`
+[08Jul2025 00:23:44.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghfbiha7pvye]: Consuming argument `crimsonfungus`
+[08Jul2025 00:23:44.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghfbiha7pvye]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:44.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b4g6xstsu04h]: started parsing
+[08Jul2025 00:23:44.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b4g6xstsu04h]: Consuming argument `2`
+[08Jul2025 00:23:44.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b4g6xstsu04h]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:44.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okum84wnpbl1]: started parsing
+[08Jul2025 00:23:44.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okum84wnpbl1]: Consuming argument `2`
+[08Jul2025 00:23:44.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okum84wnpbl1]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:45.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02sle9h7brld6]: started parsing
+[08Jul2025 00:23:45.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02sle9h7brld6]: Consuming argument ``
+[08Jul2025 00:23:45.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02sle9h7brld6]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:46.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uu52dtizlujn]: started parsing
+[08Jul2025 00:23:46.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uu52dtizlujn]: Consuming argument `3`
+[08Jul2025 00:23:46.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uu52dtizlujn]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:46.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nuacpy5t4tte]: started parsing
+[08Jul2025 00:23:46.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nuacpy5t4tte]: Consuming argument `3`
+[08Jul2025 00:23:46.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nuacpy5t4tte]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:48.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05g8vmi63p57n]: started parsing
+[08Jul2025 00:23:48.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05g8vmi63p57n]: Consuming argument `3`
+[08Jul2025 00:23:48.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05g8vmi63p57n]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:48.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ka7ajf9giom4]: started parsing
+[08Jul2025 00:23:48.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ka7ajf9giom4]: Consuming argument `3`
+[08Jul2025 00:23:48.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ka7ajf9giom4]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:49.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rtpfnorcp7cq]: started parsing
+[08Jul2025 00:23:49.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rtpfnorcp7cq]: Consuming argument `3`
+[08Jul2025 00:23:49.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rtpfnorcp7cq]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:50.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02r3a5njgsk46]: started parsing
+[08Jul2025 00:23:50.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02r3a5njgsk46]: Consuming argument `3`
+[08Jul2025 00:23:50.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02r3a5njgsk46]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:50.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11whe243cok6g]: started parsing
+[08Jul2025 00:23:50.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11whe243cok6g]: Consuming argument `3`
+[08Jul2025 00:23:50.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11whe243cok6g]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:51.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g3x6e7mtfejl]: started parsing
+[08Jul2025 00:23:51.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g3x6e7mtfejl]: Consuming argument `3`
+[08Jul2025 00:23:51.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g3x6e7mtfejl]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:53.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i4a84no2g0nz]: started parsing
+[08Jul2025 00:23:53.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i4a84no2g0nz]: Consuming argument ``
+[08Jul2025 00:23:53.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i4a84no2g0nz]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:54.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n4ro555b07k7]: started parsing
+[08Jul2025 00:23:54.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n4ro555b07k7]: Consuming argument `5`
+[08Jul2025 00:23:54.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n4ro555b07k7]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:23:55.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxacl0u3yhml]: started parsing
+[08Jul2025 00:23:55.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxacl0u3yhml]: Consuming argument `5`
+[08Jul2025 00:23:55.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxacl0u3yhml]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:24:10.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:11.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:11.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:12.054] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:14.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bqerbteerhmn]: started parsing
+[08Jul2025 00:24:14.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bqerbteerhmn]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:24:18.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04x5irdh7u88t]: started parsing
+[08Jul2025 00:24:18.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04x5irdh7u88t]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:24:18.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dgfp7lc47u7h]: started parsing
+[08Jul2025 00:24:18.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dgfp7lc47u7h]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:24:20.105] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 00:24:20.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:24:20.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:24:34.948] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:35.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:35.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:35.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:36.045] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:36.450] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:37.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:37.497] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:38.010] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:38.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:41.095] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:41.299] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:41.608] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:41.796] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:41.903] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:42.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:42.300] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:42.447] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:42.548] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:42.697] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:42.949] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:43.059] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:43.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:43.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:43.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:43.596] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:43.858] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:44.047] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:44.104] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:44.345] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:44.805] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:45.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:45.214] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:45.358] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:45.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:45.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:46.197] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:46.351] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:46.457] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:46.604] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:46.795] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:46.851] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:47.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:47.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:47.797] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:47.997] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.449] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.744] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.752] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:48.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.053] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.205] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.309] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.851] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:49.998] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:50.353] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:50.507] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:24:50.700] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:25:23.093] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-08 at /workspaces/aventuria/servidor_minecraft/easy_npc/backup ...
+[08Jul2025 00:25:24.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1woq8lzbokk26]: started parsing
+[08Jul2025 00:25:24.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1woq8lzbokk26]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:26.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [018fyf6r3i7ep]: started parsing
+[08Jul2025 00:25:26.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [018fyf6r3i7ep]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:30.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a4k3emngsc9j]: started parsing
+[08Jul2025 00:25:30.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a4k3emngsc9j]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:31.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gy6nws7xx8b]: started parsing
+[08Jul2025 00:25:31.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gy6nws7xx8b]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:32.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yhq6bvbh9sby]: started parsing
+[08Jul2025 00:25:32.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yhq6bvbh9sby]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:33.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1shk8j2l441z9]: started parsing
+[08Jul2025 00:25:33.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1shk8j2l441z9]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:33.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [017npzk6v6b6l]: started parsing
+[08Jul2025 00:25:33.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [017npzk6v6b6l]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:34.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqldbrrbswug]: started parsing
+[08Jul2025 00:25:34.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqldbrrbswug]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:25:35.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1s3f92lx3pw]: started parsing
+[08Jul2025 00:25:35.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1s3f92lx3pw]: Finished looking at arguments. Finalizing command.
+[08Jul2025 00:26:27.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:27:13.054] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:27:13.800] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:29:20.116] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[08Jul2025 00:29:20.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:29:20.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:30:26.346] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:30:26.547] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08Jul2025 00:31:34.812] [Worker-Main-40/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 00:31:34.812] [Worker-Main-40/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 00:31:34.813] [Worker-Main-40/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 00:31:35.193] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1440 | 39 | 219)
+[08Jul2025 00:31:35.206] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1440 | 39 | 219)
+[08Jul2025 00:31:35.209] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1440 | 39 | 219)
+[08Jul2025 00:31:35.210] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1440 | 39 | 219)
+[08Jul2025 00:31:35.210] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.211] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.211] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.211] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.211] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (-1437 | 30 | 224)
+[08Jul2025 00:31:35.212] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (-1437 | 30 | 224)
+[08Jul2025 00:31:35.212] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1440 | 30 | 219)
+[08Jul2025 00:31:35.213] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-1440 | 30 | 219)
+[08Jul2025 00:31:35.213] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1426 | 30 | 220)
+[08Jul2025 00:31:35.214] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1426 | 30 | 220)
+[08Jul2025 00:31:35.214] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1431 | 30 | 219)
+[08Jul2025 00:31:35.214] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1431 | 30 | 219)
+[08Jul2025 00:31:35.214] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-1425 | 30 | 215)
+[08Jul2025 00:31:35.215] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-1425 | 30 | 215)
+[08Jul2025 00:31:35.595] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1413 | 48 | 218)
+[08Jul2025 00:31:35.596] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1413 | 48 | 218)
+[08Jul2025 00:31:35.596] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.596] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.596] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.596] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1431 | 39 | 219)
+[08Jul2025 00:31:35.596] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1422 | 39 | 218)
+[08Jul2025 00:31:35.598] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1422 | 39 | 218)
+[08Jul2025 00:31:35.598] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-1422 | 39 | 218)
+[08Jul2025 00:31:35.598] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-1422 | 39 | 218)
+[08Jul2025 00:31:35.598] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (-1412 | 39 | 218)
+[08Jul2025 00:31:35.599] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (-1412 | 39 | 218)
+[08Jul2025 00:31:35.599] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1412 | 39 | 218)
+[08Jul2025 00:31:35.599] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1412 | 39 | 218)
+[08Jul2025 00:31:35.599] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1411 | 45 | 238)
+[08Jul2025 00:31:35.600] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1411 | 45 | 238)
+[08Jul2025 00:31:35.600] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1411 | 45 | 238)
+[08Jul2025 00:31:35.600] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1411 | 45 | 238)
+[08Jul2025 00:31:35.600] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 227)
+[08Jul2025 00:31:35.601] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 227)
+[08Jul2025 00:31:35.601] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 227)
+[08Jul2025 00:31:35.601] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 227)
+[08Jul2025 00:31:35.601] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (-1417 | 38 | 232)
+[08Jul2025 00:31:35.607] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (-1417 | 38 | 232)
+[08Jul2025 00:31:35.607] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-1417 | 38 | 232)
+[08Jul2025 00:31:35.608] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-1417 | 38 | 232)
+[08Jul2025 00:31:35.608] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-1425 | 30 | 215)
+[08Jul2025 00:31:35.611] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-1425 | 30 | 215)
+[08Jul2025 00:31:37.310] [Worker-Main-39/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 00:31:37.313] [Worker-Main-39/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 00:31:38.034] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.035] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.035] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.035] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.035] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.036] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.036] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.036] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.036] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.038] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.038] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.040] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.040] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.040] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.040] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.040] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.352] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-1442 | 48 | 253)
+[08Jul2025 00:31:38.359] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-1442 | 48 | 253)
+[08Jul2025 00:31:38.359] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-1436 | 48 | 246)
+[08Jul2025 00:31:38.361] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-1436 | 48 | 246)
+[08Jul2025 00:31:38.361] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1453 | 48 | 241)
+[08Jul2025 00:31:38.362] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1453 | 48 | 241)
+[08Jul2025 00:31:38.365] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1426 | 48 | 247)
+[08Jul2025 00:31:38.366] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-1426 | 48 | 247)
+[08Jul2025 00:31:38.366] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1431 | 48 | 246)
+[08Jul2025 00:31:38.367] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1431 | 48 | 246)
+[08Jul2025 00:31:38.367] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-1425 | 48 | 242)
+[08Jul2025 00:31:38.368] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-1425 | 48 | 242)
+[08Jul2025 00:31:38.368] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1452 | 30 | 242)
+[08Jul2025 00:31:38.369] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1452 | 30 | 242)
+[08Jul2025 00:31:38.484] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-1425 | 48 | 242)
+[08Jul2025 00:31:38.489] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-1425 | 48 | 242)
+[08Jul2025 00:31:38.489] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.489] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.489] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-1411 | 45 | 238)
+[08Jul2025 00:31:38.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1412 | 39 | 249)
+[08Jul2025 00:31:38.490] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.492] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.492] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-1417 | 38 | 232)
+[08Jul2025 00:31:38.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:38.493] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.487] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.487] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.487] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.487] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.487] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.487] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.488] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.488] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.488] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.492] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.492] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.494] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.709] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-1425 | 48 | 242)
+[08Jul2025 00:31:39.710] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-1425 | 48 | 242)
+[08Jul2025 00:31:39.710] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (-1411 | 46 | 265)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1411 | 39 | 254)
+[08Jul2025 00:31:39.711] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.713] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.715] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:39.716] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.163] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.165] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.166] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.167] [Worker-Main-64/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.635] [Worker-Main-62/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.636] [Worker-Main-62/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.636] [Worker-Main-62/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:31:40.637] [Worker-Main-62/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1417 | 39 | 259)
+[08Jul2025 00:32:45.014] [Worker-Main-62/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-13, 26], pos: MutableBlockPos{x=-194, y=56, z=427}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureSeaAnemone@6b5ed5d6: net.minecraft.world.level.levelgen.feature.configurations.CountConfiguration@874d98c}
+[08Jul2025 00:32:45.015] [Worker-Main-62/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-13, 26], pos: MutableBlockPos{x=-198, y=56, z=429}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureSeaAnemone@6b5ed5d6: net.minecraft.world.level.levelgen.feature.configurations.CountConfiguration@874d98c}
